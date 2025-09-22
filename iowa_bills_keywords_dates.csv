@@ -1,0 +1,111 @@
+State,Policy (bill) identifier,Policy sponsor,Policy sponsor party,Link to bill,bill text,Cosponsor,Introduced (Y/N),Introduced date,Chamber where introduced,Effective (Y/N),Effective date,Passed introduced chamber (Y/N),Passed introduced chamber date,Passed second chamber (Y/N),Passed second chamber date,Pending (Y/N),Dead (Y/N),Chamber where died,Dead date,Enacted (Y/N),Act identifier,Enacted Date,Matched keywords
+Iowa,HF99,GUSTOFF,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF99&ga=91,bill_texts/GA91/HF99.txt,,,,House,,,,,,,Y,,,,,,,"Citizenship, Foreign"
+Iowa,HF91,GOLDING,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF91&ga=91,bill_texts/GA91/HF91.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF83,DIEKEN,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF83&ga=91,bill_texts/GA91/HF83.txt,,,,House,,,,,,,Y,,,,,,,"Alien, Foreign"
+Iowa,HF53,WHEELER,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF53&ga=91,bill_texts/GA91/HF53.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF191,"SHIPLEY, FETT, HAYES, GOLDING, SMITH, A. MEYER, WENGRYN, SIECK, BODEN, ANDREWS, GUSTOFF, WILLIAMS, CISNEROS, YOUNG, THOMPSON, DIEKEN, THOMSON, GEHLBACH, SITZMANN, SORENSEN, WHEELER, WOOD, and NORDMAN",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF191&ga=91,bill_texts/GA91/HF191.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF165,COMMITTEE ON EDUCATION (SUCCESSOR TO HSB 30),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF165&ga=91,bill_texts/GA91/HF165.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,HF151,"WESSEL-KROESCHELL, LEVIN, R. JOHNSON, KRESSIG, McBURNEY, MADISON, GOSA, WICHTENDAHL, BROWN-POWERS, B. MEYER, and KURTH",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF151&ga=91,bill_texts/GA91/HF151.txt,,,,House,,,,,,,Y,,,,,Chapter 468,,Border
+Iowa,HF144,"COMMITTEE ON WAYS AND MEANS (SUCCESSOR TO HSB 80) (As Amended and Passed by the House January 30, 2025 )",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF144&ga=91,bill_texts/GA91/HF144.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF115,COLLINS and HARRIS,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF115&ga=91,bill_texts/GA91/HF115.txt,,,,House,,,,,,,Y,,,,,Chapter 256,,"Migrant, Visa"
+Iowa,HF290,TUREK,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF290&ga=91,bill_texts/GA91/HF290.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF256,LOHSE (COMPANION TO SF 2 BY LOFGREN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF256&ga=91,bill_texts/GA91/HF256.txt,,,,House,,,,,,,Y,,,,,Chapter 147,,Foreign
+Iowa,HF255,"LEVIN, CROKEN, KRESSIG, and BERGAN",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF255&ga=91,bill_texts/GA91/HF255.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF254,LOHSE (COMPANION TO SF 48 BY LOFGREN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF254&ga=91,bill_texts/GA91/HF254.txt,,,,House,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,HF230,BODEN,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF230&ga=91,bill_texts/GA91/HF230.txt,,,,House,,,,,,,Y,,,,,,,Alien
+Iowa,HF210,GUSTOFF (COMPANION TO SF 54 BY ROWLEY),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF210&ga=91,bill_texts/GA91/HF210.txt,,,,House,,,,,,,Y,,,,,Chapter 535,,Foreign
+Iowa,HF469,RINKER,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF469&ga=91,bill_texts/GA91/HF469.txt,,,,House,,,,,,,Y,,,,,Chapter 239,,Foreign
+Iowa,HF451,STONE,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF451&ga=91,bill_texts/GA91/HF451.txt,,,,House,,,,,,,Y,,,,,Chapter 423,,Foreign
+Iowa,HF439,COMMITTEE ON JUDICIARY (SUCCESSOR TO HSB 37),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF439&ga=91,bill_texts/GA91/HF439.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,HF437,,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF437&ga=91,bill_texts/GA91/HF437.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF430,SHIPLEY,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF430&ga=91,bill_texts/GA91/HF430.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF429,"SHIPLEY, THOMPSON, VONDRAN, WENGRYN, LAWLER, GEARHART, GERHOLD, and DIEKEN",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF429&ga=91,bill_texts/GA91/HF429.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF428,SHIPLEY,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF428&ga=91,bill_texts/GA91/HF428.txt,,,,House,,,,,,,Y,,,,,,,"Border, Foreign"
+Iowa,HF576,COMMITTEE ON HIGHER EDUCATION (SUCCESSOR TO HF 115),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF576&ga=91,bill_texts/GA91/HF576.txt,,,,House,,,,,,,Y,,,,,Chapter 256,,"Migrant, Visa"
+Iowa,HF575,COMMITTEE ON HIGHER EDUCATION (SUCCESSOR TO HSB 54),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF575&ga=91,bill_texts/GA91/HF575.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HF572,"COMMITTEE ON JUDICIARY (SUCCESSOR TO HSB 15) (As Amended and Passed by the House March 20, 2025 )",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF572&ga=91,bill_texts/GA91/HF572.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HF688,,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF688&ga=91,bill_texts/GA91/HF688.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF687,,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF687&ga=91,bill_texts/GA91/HF687.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF666,"SHIPLEY, THOMPSON, FETT, HENDERSON, CISNEROS, GERHOLD, HAYES, WENGRYN, and FISHER",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF666&ga=91,bill_texts/GA91/HF666.txt,,,,House,,,,,,,Y,,,,,Chapter 616,,"Alien, Foreign"
+Iowa,HF800,COMMITTEE ON AGRICULTURE (SUCCESSOR TO HSB 132),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF800&ga=91,bill_texts/GA91/HF800.txt,,,,House,,,,,,,Y,,,,,Chapter 182,,Foreign
+Iowa,HF778,,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF778&ga=91,bill_texts/GA91/HF778.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF759,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO HSB 109),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF759&ga=91,bill_texts/GA91/HF759.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF756,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO HSB 72),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF756&ga=91,bill_texts/GA91/HF756.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HF732,MADISON,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF732&ga=91,bill_texts/GA91/HF732.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF730,"MATSON, EHLERT, LEVIN, MADISON, KURTH, and GJERDE",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF730&ga=91,bill_texts/GA91/HF730.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF828,R. JOHNSON,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF828&ga=91,bill_texts/GA91/HF828.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Immigration
+Iowa,HF997,COMMITTEE ON WAYS AND MEANS (SUCCESSOR TO HF 759) (SUCCESSOR TO HSB 109),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF997&ga=91,bill_texts/GA91/HF997.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF954,,,https://www.legis.iowa.gov/legislation/BillBook?ba=HF954&ga=91,bill_texts/GA91/HF954.txt,,,,House,,,,,,,Y,,,,,Chapter 45,,Citizenship
+Iowa,HF952,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO HSB 71),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF952&ga=91,bill_texts/GA91/HF952.txt,,,,House,,,,,,,Y,,,,,Chapter 13,,Foreign
+Iowa,HF946,"COMMITTEE ON JUDICIARY (SUCCESSOR TO HSB 285) (As Amended and Passed by the House March 26, 2025 )",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF946&ga=91,bill_texts/GA91/HF946.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HF930,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO HSB 291),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF930&ga=91,bill_texts/GA91/HF930.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF927,COMMITTEE ON ENVIRONMENTAL PROTECTION (SUCCESSOR TO HF 191),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF927&ga=91,bill_texts/GA91/HF927.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF912,COMMITTEE ON VETERANS AFFAIRS (SUCCESSOR TO HF 469),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF912&ga=91,bill_texts/GA91/HF912.txt,,,,House,,,,,,,Y,,,,,Chapter 239,,Foreign
+Iowa,HF1045,COMMITTEE ON APPROPRIATIONS (SUCCESSOR TO HSB 337),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF1045&ga=91,bill_texts/GA91/HF1045.txt,,,,House,,,,,,,Y,,,,,Chapter 284,,Citizenship
+Iowa,HF1043,COMMITTEE ON APPROPRIATIONS (SUCCESSOR TO HSB 338),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF1043&ga=91,bill_texts/GA91/HF1043.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Foreign
+Iowa,HF1040,COMMITTEE ON APPROPRIATIONS (SUCCESSOR TO HSB 336),,https://www.legis.iowa.gov/legislation/BillBook?ba=HF1040&ga=91,bill_texts/GA91/HF1040.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Alien
+Iowa,HF1028,"COMMITTEE ON APPROPRIATIONS (SUCCESSOR TO HF 756) (SUCCESSOR TO HSB 72) (As Amended and Passed by the House April 24, 2025 )",,https://www.legis.iowa.gov/legislation/BillBook?ba=HF1028&ga=91,bill_texts/GA91/HF1028.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,SF94,SALMON,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF94&ga=91,bill_texts/GA91/SF94.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF55,EVANS,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF55&ga=91,bill_texts/GA91/SF55.txt,,,,Senate,,,,,,,Y,,,,,Chapter 321,,Alien
+Iowa,SF54,ROWLEY,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF54&ga=91,bill_texts/GA91/SF54.txt,,,,Senate,,,,,,,Y,,,,,Chapter 535,,Foreign
+Iowa,SF48,"LOFGREN, SALMON, SHIPLEY, ALONS, KRAAYENBRINK, ROWLEY, EVANS, TAYLOR, GRUENHAGEN, CAMPBELL, and KLIMESH",,https://www.legis.iowa.gov/legislation/BillBook?ba=SF48&ga=91,bill_texts/GA91/SF48.txt,,,,Senate,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,SF2,LOFGREN,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF2&ga=91,bill_texts/GA91/SF2.txt,,,,Senate,,,,,,,Y,,,,,Chapter 147,,Foreign
+Iowa,SF173,COMMITTEE ON LOCAL GOVERNMENT (SUCCESSOR TO SSB 1069),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF173&ga=91,bill_texts/GA91/SF173.txt,,,,Senate,,,,,,,Y,,,,,,,Border
+Iowa,SF161,WESTRICH,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF161&ga=91,bill_texts/GA91/SF161.txt,,,,Senate,,,,,,,Y,,,,,Chapter 199,,Alien
+Iowa,SF155,BISIGNANO,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF155&ga=91,bill_texts/GA91/SF155.txt,,,,Senate,,,,,,,Y,,,,,,,"Citizenship, Foreign"
+Iowa,SF127,GRUENHAGEN,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF127&ga=91,bill_texts/GA91/SF127.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF297,"COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO SSB 1090) (As Amended and Passed by the Senate April 21, 2025 )",,https://www.legis.iowa.gov/legislation/BillBook?ba=SF297&ga=91,bill_texts/GA91/SF297.txt,,,,Senate,,,,,,,Y,,,,,Chapter 13,,Foreign
+Iowa,SF279,GREEN (COMPANION TO HF 230 BY BODEN),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF279&ga=91,bill_texts/GA91/SF279.txt,,,,Senate,,,,,,,Y,,,,,,,Alien
+Iowa,SF227,TAYLOR,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF227&ga=91,bill_texts/GA91/SF227.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF221,SALMON,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF221&ga=91,bill_texts/GA91/SF221.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF396,COMMITTEE ON JUDICIARY (SUCCESSOR TO SSB 1126) (COMPANION TO HF 381 BY COMMITTEE ON JUDICIARY),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF396&ga=91,bill_texts/GA91/SF396.txt,,,,Senate,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,SF390,COMMITTEE ON TRANSPORTATION (SUCCESSOR TO SSB 1043),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF390&ga=91,bill_texts/GA91/SF390.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF369,,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF369&ga=91,bill_texts/GA91/SF369.txt,,,,Senate,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,SF354,BOUSSELOT,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF354&ga=91,bill_texts/GA91/SF354.txt,,,,Senate,,,,,,,Y,,,,,,,Border
+Iowa,SF307,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO SSB 1083),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF307&ga=91,bill_texts/GA91/SF307.txt,,,,Senate,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,SF302,WESTRICH (COMPANION TO HF 99 BY GUSTOFF),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF302&ga=91,bill_texts/GA91/SF302.txt,,,,Senate,,,,,,,Y,,,,,,,"Citizenship, Foreign"
+Iowa,SF495,COMMITTEE ON LOCAL GOVERNMENT (SUCCESSOR TO SF 279) (COMPANION TO HF 645 BY COMMITTEE ON LOCAL GOVERNMENT),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF495&ga=91,bill_texts/GA91/SF495.txt,,,,Senate,,,,,,,Y,,,,,,,Alien
+Iowa,SF494,"COMMITTEE ON LOCAL GOVERNMENT (SUCCESSOR TO SF 161) (As Amended and Passed by the Senate March 24, 2025 )",,https://www.legis.iowa.gov/legislation/BillBook?ba=SF494&ga=91,bill_texts/GA91/SF494.txt,,,,Senate,,,,,,,Y,,,,,Chapter 199,,Alien
+Iowa,SF479,TRONE GARRIOTT,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF479&ga=91,bill_texts/GA91/SF479.txt,,,,Senate,,,,,,,Y,,,,,Chapter 9,,Foreign
+Iowa,SF477,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO SSB 1141) (COMPANION TO LSB 1872HV BY COMMITTEE ON STATE GOVERNMENT),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF477&ga=91,bill_texts/GA91/SF477.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF435,"WEINER, DONAHUE, DOTZLER, CELSI, STAED, and PETERSEN",,https://www.legis.iowa.gov/legislation/BillBook?ba=SF435&ga=91,bill_texts/GA91/SF435.txt,,,,Senate,,,,,,,Y,,,,,Chapter 468,,Border
+Iowa,SF586,COMMITTEE ON JUDICIARY (SUCCESSOR TO SF 54),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF586&ga=91,bill_texts/GA91/SF586.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF570,COMMITTEE ON COMMERCE (SUCCESSOR TO SSB 1203),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF570&ga=91,bill_texts/GA91/SF570.txt,,,,Senate,,,,,,,Y,,,,,Chapter 490,,Foreign
+Iowa,SF550,COMMITTEE ON STATE GOVERNMENT (SUCCESSOR TO SSB 1088),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF550&ga=91,bill_texts/GA91/SF550.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF532,CELSI,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF532&ga=91,bill_texts/GA91/SF532.txt,,,,Senate,,,,,,,Y,,,,,Chapter 108,,Alien
+Iowa,SF519,COMMITTEE ON EDUCATION (SUCCESSOR TO SF 127) (COMPANION TO HF 437 BY COMMITTEE ON HIGHER EDUCATION),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF519&ga=91,bill_texts/GA91/SF519.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF517,COMMITTEE ON EDUCATION (SUCCESSOR TO SF 221),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF517&ga=91,bill_texts/GA91/SF517.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF509,TOWNSEND,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF509&ga=91,bill_texts/GA91/SF509.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF646,,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF646&ga=91,bill_texts/GA91/SF646.txt,,,,Senate,,,,,,,Y,,,,,Chapter 1148,,Foreign
+Iowa,SF645,,,https://www.legis.iowa.gov/legislation/BillBook?ba=SF645&ga=91,bill_texts/GA91/SF645.txt,,,,Senate,,,,,,,Y,,,,,Chapter 1148,,Alien
+Iowa,SF630,COMMITTEE ON APPROPRIATIONS (SUCCESSOR TO SF 307) (SUCCESSOR TO SSB 1083),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF630&ga=91,bill_texts/GA91/SF630.txt,,,,Senate,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,SF614,COMMITTEE ON WAYS AND MEANS (SUCCESSOR TO SSB 1156),,https://www.legis.iowa.gov/legislation/BillBook?ba=SF614&ga=91,bill_texts/GA91/SF614.txt,,,,Senate,,,,,,,Y,,,,,Chapter 450,,Visa
+Iowa,HSB89,(PROPOSED DEPARTMENT OF REVENUE BILL),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB89&ga=91,bill_texts/GA91/HSB89.txt,,,,House,,,,,,,Y,,,,,Chapter 450,,Visa
+Iowa,HSB80,(PROPOSED COMMITTEE ON WAYS AND MEANS BILL BY CHAIRPERSON KAUFMANN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB80&ga=91,bill_texts/GA91/HSB80.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HSB72,(PROPOSED DEPARTMENT OF MANAGEMENT BILL),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB72&ga=91,bill_texts/GA91/HSB72.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HSB71,(PROPOSED DEPARTMENT OF ADMINISTRATIVE SERVICES BILL),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB71&ga=91,bill_texts/GA91/HSB71.txt,,,,House,,,,,,,Y,,,,,Chapter 8,,Foreign
+Iowa,HSB54,(PROPOSED COMMITTEE ON HIGHER EDUCATION BILL BY CHAIRPERSON COLLINS),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB54&ga=91,bill_texts/GA91/HSB54.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HSB52,(PROPOSED COMMITTEE ON HIGHER EDUCATION BILL BY CHAIRPERSON COLLINS),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB52&ga=91,bill_texts/GA91/HSB52.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HSB37,(PROPOSED COMMITTEE ON JUDICIARY BILL BY CHAIRPERSON HOLT),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB37&ga=91,bill_texts/GA91/HSB37.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,HSB30,(PROPOSED COMMITTEE ON EDUCATION BILL BY CHAIRPERSON WHEELER),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB30&ga=91,bill_texts/GA91/HSB30.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,HSB187,(PROPOSED COMMITTEE ON JUDICIARY BILL BY CHAIRPERSON HOLT),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB187&ga=91,bill_texts/GA91/HSB187.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HSB177,(PROPOSED COMMITTEE ON STATE GOVERNMENT BILL BY CHAIRPERSON BLOOMINGDALE),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB177&ga=91,bill_texts/GA91/HSB177.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB141,(PROPOSED COMMITTEE ON JUDICIARY BILL BY CHAIRPERSON HOLT),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB141&ga=91,bill_texts/GA91/HSB141.txt,,,,House,,,,,,,Y,,,,,Chapter 232,,Foreign
+Iowa,HSB137,(PROPOSED GOVERNOR BILL),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB137&ga=91,bill_texts/GA91/HSB137.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,HSB132,(PROPOSED COMMITTEE ON AGRICULTURE BILL BY CHAIRPERSON SEXTON),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB132&ga=91,bill_texts/GA91/HSB132.txt,,,,House,,,,,,,Y,,,,,Chapter 182,,Foreign
+Iowa,HSB119,(PROPOSED COMMITTEE ON STATE GOVERNMENT BILL BY CHAIRPERSON BLOOMINGDALE),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB119&ga=91,bill_texts/GA91/HSB119.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB115,(PROPOSED COMMITTEE ON JUDICIARY BILL BY CHAIRPERSON HOLT),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB115&ga=91,bill_texts/GA91/HSB115.txt,,,,House,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,HSB109,(PROPOSED SECRETARY OF STATE BILL),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB109&ga=91,bill_texts/GA91/HSB109.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB293,,,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB293&ga=91,bill_texts/GA91/HSB293.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HSB291,(PROPOSED COMMITTEE ON STATE GOVERNMENT BILL BY CHAIRPERSON BLOOMINGDALE),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB291&ga=91,bill_texts/GA91/HSB291.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB289,(PROPOSED COMMITTEE ON PUBLIC SAFETY BILL BY CHAIRPERSON VONDRAN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB289&ga=91,bill_texts/GA91/HSB289.txt,,,,House,,,,,,,Y,,,,,Chapter 216,,Foreign
+Iowa,HSB285,(PROPOSED COMMITTEE ON JUDICIARY BILL BY CHAIRPERSON HOLT),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB285&ga=91,bill_texts/GA91/HSB285.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HSB282,(PROPOSED COMMITTEE ON EDUCATION BILL BY CHAIRPERSON WHEELER),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB282&ga=91,bill_texts/GA91/HSB282.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HSB281,(PROPOSED COMMITTEE ON STATE GOVERNMENT BILL BY CHAIRPERSON BLOOMINGDALE),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB281&ga=91,bill_texts/GA91/HSB281.txt,,,,House,,,,,,,Y,,,,,Chapter 45,,Citizenship
+Iowa,HSB223,(PROPOSED COMMITTEE ON WAYS AND MEANS BILL BY CHAIRPERSON KAUFMANN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB223&ga=91,bill_texts/GA91/HSB223.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB211,(PROPOSED COMMITTEE ON JUDICIARY BILL BY CHAIRPERSON HOLT),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB211&ga=91,bill_texts/GA91/HSB211.txt,,,,House,,,,,,,Y,,,,,Chapter 488,,Foreign
+Iowa,HSB338,(PROPOSED COMMITTEE ON APPROPRIATIONS BILL BY CHAIRPERSON MOHR),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB338&ga=91,bill_texts/GA91/HSB338.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Foreign
+Iowa,HSB337,(PROPOSED COMMITTEE ON APPROPRIATIONS BILL BY CHAIRPERSON MOHR),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB337&ga=91,bill_texts/GA91/HSB337.txt,,,,House,,,,,,,Y,,,,,Chapter 284,,Citizenship
+Iowa,HSB336,(PROPOSED COMMITTEE ON APPROPRIATIONS BILL BY CHAIRPERSON MOHR),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB336&ga=91,bill_texts/GA91/HSB336.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Alien
+Iowa,HSB309,(PROPOSED COMMITTEE ON WAYS AND MEANS BILL BY CHAIRPERSON KAUFMANN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB309&ga=91,bill_texts/GA91/HSB309.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB308,(PROPOSED COMMITTEE ON WAYS AND MEANS BILL BY CHAIRPERSON KAUFMANN),,https://www.legis.iowa.gov/legislation/BillBook?ba=HSB308&ga=91,bill_texts/GA91/HSB308.txt,,,,House,,,,,,,Y,,,,,,,Foreign
