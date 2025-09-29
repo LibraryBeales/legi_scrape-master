@@ -45,7 +45,7 @@ KEYWORDS = [
     "Foreign",
 ]
 
-GA_START = 84   # change as needed
+GA_START = 80   # change as needed
 GA_END   = 91   # change as needed
 
 LEG_TYPES = ["HF", "SF", "HSB", "SSB"]  # directory bill types
@@ -85,7 +85,7 @@ CSV_COLUMNS = [
 ]
 
 # ---- polite requests throttling ----
-REQUESTS_PER_MINUTE = 30
+REQUESTS_PER_MINUTE = 40
 JITTER_RANGE_SECONDS = (0.6, 1.8)
 PAUSE_EVERY_N_REQUESTS = 40
 PAUSE_DURATION_SECONDS = 20
@@ -320,37 +320,75 @@ WITHDRAWN  = re.compile(r"\bWithdrawn\b|\bDied in (House|Senate)\b|\bFailed\b", 
 EFFECTIVE  = re.compile(r"\bEffective (?:date|on)\b|\bEffective\b", re.I)
 
 def parse_dates_with_playwright(page, url: str, billno: str) -> Dict[str, str]:
-    # Load with retries (ERR_EMPTY_RESPONSE sometimes occurs)
+    # Robust navigation with retries
     for attempt in range(3):
         try:
-            page.goto(url, timeout=60000)
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_load_state("networkidle", timeout=15000)
             break
         except Exception:
             if attempt == 2:
                 raise
             time.sleep(2)
 
-    # expand history if collapsed — just like the test script
+    # If there’s a "Bill History" tab/link, click it
     try:
-        page.locator("a.actionWidgetExpand").first.click(timeout=2000)
+        # common patterns seen on the site
+        locs_to_try = [
+            'a[href="#billHistory"]',
+            'a:has-text("Bill History")',
+            '#billHistoryLink',
+        ]
+        clicked = False
+        for sel in locs_to_try:
+            if page.locator(sel).first.is_visible():
+                page.locator(sel).first.click(timeout=2000)
+                page.wait_for_load_state("networkidle", timeout=8000)
+                clicked = True
+                break
+        if not clicked:
+            # Scroll in case history is lazy-loaded on scroll
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_load_state("networkidle", timeout=4000)
     except Exception:
         pass
 
-    # rows under the canonical billAction table
+    # Expand any collapsible action widgets (sometimes there are multiple)
     try:
-        rows = page.locator("div.billAction table.billActionTable tbody tr")
-        n = rows.count()
+        expands = page.locator("a.actionWidgetExpand")
+        cnt = expands.count()
+        for i in range(cnt):
+            try:
+                if expands.nth(i).is_visible():
+                    expands.nth(i).click(timeout=1500)
+                    page.wait_for_load_state("networkidle", timeout=2000)
+            except Exception:
+                continue
     except Exception:
-        return {
-            "Introduced date": "",
-            "Effective date": "",
-            "Passed introduced chamber date": "",
-            "Passed second chamber date": "",
-            "Dead date": "",
-            "Enacted (Y/N)": "",
-            "Enacted Date": "",
-        }
+        pass
 
+    # Ensure we actually have rows; try the canonical selector first
+    rows = page.locator("div.billAction table.billActionTable tbody tr")
+    try:
+        # wait a bit for rows to appear
+        page.wait_for_selector("div.billAction table.billActionTable tbody tr", timeout=6000)
+    except Exception:
+        # Fallback: any billActionTable on the page
+        rows = page.locator("table.billActionTable tbody tr")
+        try:
+            page.wait_for_selector("table.billActionTable tbody tr", timeout=6000)
+        except Exception:
+            return {
+                "Introduced date": "",
+                "Effective date": "",
+                "Passed introduced chamber date": "",
+                "Passed second chamber date": "",
+                "Dead date": "",
+                "Enacted (Y/N)": "",
+                "Enacted Date": "",
+            }
+
+    n = rows.count()
     introduced_chamber = infer_chamber_from_billno(billno)
 
     intro_dates: List[str] = []
@@ -362,27 +400,28 @@ def parse_dates_with_playwright(page, url: str, billno: str) -> Dict[str, str]:
     enacted_date = ""
 
     for i in range(n):
-        tds = rows.nth(i).locator("td")
-        # date from first cell
+        tr = rows.nth(i)
+        tds = tr.locator("td")
+        # date (1st cell)
         try:
-            date = tds.nth(0).inner_text().strip()
+            date = (tds.nth(0).inner_text(timeout=2500) or "").strip()
         except Exception:
             date = ""
-
-        # action text
+        # action (2nd cell or whole row)
         try:
-            action = tds.nth(1).inner_text().strip()
+            action = (tds.nth(1).inner_text(timeout=2500) or "").strip()
         except Exception:
             try:
-                action = rows.nth(i).inner_text().strip()
+                action = (tr.inner_text(timeout=2500) or "").strip()
             except Exception:
                 action = ""
 
-        # if date missing, try from links then literal patterns
+        # if no date in the first cell, try href-based or literal fallback
         if not date:
             try:
-                links = rows.nth(i).locator("a[href]")
-                for j in range(links.count()):
+                links = tr.locator("a[href]")
+                lcount = links.count()
+                for j in range(lcount):
                     href = links.nth(j).get_attribute("href") or ""
                     d = _date_from_href_str(href)
                     if d:
@@ -399,11 +438,11 @@ def parse_dates_with_playwright(page, url: str, billno: str) -> Dict[str, str]:
 
         low = action.lower()
 
-        # EXACTLY like the test for Introduced — collect all and pick earliest
+        # EXACT test-script behavior for Introduced
         if "introduced" in low and date:
             intro_dates.append(date)
 
-        # Other dates using the same simple pattern-matching
+        # House/Senate passes
         if PASSED_H.search(action):
             if introduced_chamber == "House" and not passed_intro_date:
                 passed_intro_date = date
@@ -416,6 +455,7 @@ def parse_dates_with_playwright(page, url: str, billno: str) -> Dict[str, str]:
             elif not passed_second_date:
                 passed_second_date = date
 
+        # Effective + Enacted + Dead
         if EFFECTIVE.search(action) and not effective_date:
             effective_date = date
 
@@ -439,7 +479,7 @@ def parse_dates_with_playwright(page, url: str, billno: str) -> Dict[str, str]:
         intro_dates = [d for d in intro_dates if d]
         intro_dates.sort(key=mdy_key)
         if intro_dates:
-            introduced_date = intro_dates[0]
+            introduced_date = introduced_date or intro_dates[0]
 
     return {
         "Introduced date": introduced_date,
@@ -450,6 +490,7 @@ def parse_dates_with_playwright(page, url: str, billno: str) -> Dict[str, str]:
         "Enacted (Y/N)": enacted_flag,
         "Enacted Date": enacted_date,
     }
+
 
 # ===================== Process one bill (filter + dates) =====================
 def process_bill(page, ga: int, billno: str, url: str) -> Optional[Dict[str, str]]:

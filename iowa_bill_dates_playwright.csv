@@ -1,110 +1,1427 @@
 State,GA,Policy (bill) identifier,Introduced date,Effective date,Passed introduced chamber date,Passed second chamber date,Dead date,Enacted (Y/N),Enacted Date,Matched keywords
-Iowa,91,HF99,,,,,,,,"Citizenship, Foreign"
-Iowa,91,HF91,,,,,,,,Citizenship
-Iowa,91,HF83,,,,,,,,"Alien, Foreign"
-Iowa,91,HF53,,,,,,,,Border
-Iowa,91,HF191,,,,,,,,Border
-Iowa,91,HF165,,,,,,,,"Immigration, Citizenship"
-Iowa,91,HF151,,,,,,,,Border
-Iowa,91,HF144,,,,,,,,Border
-Iowa,91,HF115,,,,,,,,"Migrant, Visa"
-Iowa,91,HF290,,,,,,,,Citizenship
-Iowa,91,HF256,,,,,,,,Foreign
-Iowa,91,HF255,,,,,,,,Foreign
-Iowa,91,HF254,,,,,,,,Foreign
-Iowa,91,HF230,,,,,,,,Alien
-Iowa,91,HF210,,,,,,,,Foreign
-Iowa,91,HF451,,,,,,,,Foreign
-Iowa,91,HF439,,,,,,,,"Immigration, Citizenship, Foreign"
-Iowa,91,HF437,,,,,,,,Citizenship
-Iowa,91,HF430,,,,,,,,Border
-Iowa,91,HF429,,,,,,,,Foreign
-Iowa,91,HF428,,,,,,,,"Border, Foreign"
-Iowa,91,HF576,,,,,,,,"Migrant, Visa"
-Iowa,91,HF575,,,,,,,,Foreign
-Iowa,91,HF572,,,,,,,,Immigration
-Iowa,91,HF688,,,,,,,,Foreign
-Iowa,91,HF687,,,,,,,,Foreign
-Iowa,91,HF666,,,,,,,,"Alien, Foreign"
-Iowa,91,HF800,,,,,,,,Foreign
-Iowa,91,HF778,,,,,,,,Foreign
-Iowa,91,HF759,,,,,,,,Foreign
-Iowa,91,HF756,,,,,,,,Foreign
-Iowa,91,HF732,,,,,,,,Citizenship
-Iowa,91,HF730,,,,,,,,Border
-Iowa,91,HF828,,,,,,,,Immigration
-Iowa,91,HF997,,,,,,,,Foreign
-Iowa,91,HF954,,,,,,,,Citizenship
-Iowa,91,HF952,,,,,,,,Foreign
-Iowa,91,HF946,,,,,,,,Immigration
-Iowa,91,HF930,,,,,,,,Foreign
-Iowa,91,HF927,,,,,,,,Border
-Iowa,91,HF912,,,,,,,,Foreign
-Iowa,91,HF1045,,,,,,,,Citizenship
-Iowa,91,HF1043,,,,,,,,Foreign
-Iowa,91,HF1040,,,,,,,,Alien
-Iowa,91,HF1028,,,,,,,,Foreign
-Iowa,91,SF94,,,,,,,,Citizenship
-Iowa,91,SF55,,,,,,,,Alien
-Iowa,91,SF54,,,,,,,,Foreign
-Iowa,91,SF48,,,,,,,,Foreign
-Iowa,91,SF2,,,,,,,,Foreign
-Iowa,91,SF173,,,,,,,,Border
-Iowa,91,SF161,,,,,,,,Alien
-Iowa,91,SF155,,,,,,,,"Citizenship, Foreign"
-Iowa,91,SF127,,,,,,,,Citizenship
-Iowa,91,SF297,,,,,,,,Foreign
-Iowa,91,SF279,,,,,,,,Alien
-Iowa,91,SF227,,,,,,,,Foreign
-Iowa,91,SF221,,,,,,,,Foreign
-Iowa,91,SF396,,,,,,,,Foreign
-Iowa,91,SF390,,,,,,,,Foreign
-Iowa,91,SF369,,,,,,,,"Immigration, Citizenship"
-Iowa,91,SF354,,,,,,,,Border
-Iowa,91,SF307,,,,,,,,Foreign
-Iowa,91,SF302,,,,,,,,"Citizenship, Foreign"
-Iowa,91,SF495,,,,,,,,Alien
-Iowa,91,SF494,,,,,,,,Alien
-Iowa,91,SF479,,,,,,,,Foreign
-Iowa,91,SF477,,,,,,,,Foreign
-Iowa,91,SF435,,,,,,,,Border
-Iowa,91,SF586,,,,,,,,Foreign
-Iowa,91,SF570,,,,,,,,Foreign
-Iowa,91,SF550,,,,,,,,Citizenship
-Iowa,91,SF532,,,,,,,,Alien
-Iowa,91,SF519,,,,,,,,Citizenship
-Iowa,91,SF517,,,,,,,,Foreign
-Iowa,91,SF509,,,,,,,,Foreign
-Iowa,91,SF646,,,,,,,,Foreign
-Iowa,91,SF645,,,,,,,,Alien
-Iowa,91,SF630,,,,,,,,Foreign
-Iowa,91,SF614,,,,,,,,Visa
-Iowa,91,HSB89,,,,,,,,Visa
-Iowa,91,HSB80,,,,,,,,Border
-Iowa,91,HSB72,,,,,,,,Foreign
-Iowa,91,HSB71,,,,,,,,Foreign
-Iowa,91,HSB54,,,,,,,,Foreign
-Iowa,91,HSB52,,,,,,,,Citizenship
-Iowa,91,HSB37,,,,,,,,"Immigration, Citizenship, Foreign"
-Iowa,91,HSB30,,,,,,,,"Immigration, Citizenship"
-Iowa,91,HSB187,,,,,,,,Immigration
-Iowa,91,HSB177,,,,,,,,Foreign
-Iowa,91,HSB141,,,,,,,,Foreign
-Iowa,91,HSB137,,,,,,,,"Immigration, Citizenship"
-Iowa,91,HSB132,,,,,,,,Foreign
-Iowa,91,HSB119,,,,,,,,Foreign
-Iowa,91,HSB115,,,,,,,,Foreign
-Iowa,91,HSB109,,,,,,,,Foreign
-Iowa,91,HSB293,,,,,,,,Border
-Iowa,91,HSB291,,,,,,,,Foreign
-Iowa,91,HSB289,,,,,,,,Foreign
-Iowa,91,HSB285,,,,,,,,Immigration
-Iowa,91,HSB282,,,,,,,,Immigration
-Iowa,91,HSB281,,,,,,,,Citizenship
-Iowa,91,HSB223,,,,,,,,Foreign
-Iowa,91,HSB211,,,,,,,,Foreign
-Iowa,91,HSB338,,,,,,,,Foreign
-Iowa,91,HSB337,,,,,,,,Citizenship
-Iowa,91,HSB336,,,,,,,,Alien
-Iowa,91,HSB309,,,,,,,,Foreign
-Iowa,91,HSB308,,,,,,,,Foreign
+Iowa,80,HF80,01/29/2003,,,,03/04/2003,,,Border
+Iowa,80,HF23,01/15/2003,,,,03/24/2003,,,Migrant
+Iowa,80,HF13,01/14/2003,,,,,,,Foreign
+Iowa,80,HF178,02/12/2003,,,,,,,Citizenship
+Iowa,80,HF171,02/11/2003,,04/22/2003,03/31/2003,,Y,05/02/2003,Foreign
+Iowa,80,HF151,02/06/2003,,,,03/20/2003,,,Alien
+Iowa,80,HF149,02/06/2003,,,,,,,Foreign
+Iowa,80,HF101,01/31/2003,,,,,,,Citizenship
+Iowa,80,HF287,02/25/2003,,,,,,,Border
+Iowa,80,HF272,02/24/2003,,,,,,,Foreign
+Iowa,80,HF262,02/21/2003,,,,04/23/2003,,,Visa
+Iowa,80,HF234,02/18/2003,,03/04/2003,,,,,Border
+Iowa,80,HF229,02/18/2003,,,,,,,Visa
+Iowa,80,HF219,02/18/2003,,,,,,,Visa
+Iowa,80,HF212,02/17/2003,,,,,,,Visa
+Iowa,80,HF399,03/04/2003,,,,04/23/2003,,,"Alien, Foreign"
+Iowa,80,HF396,03/04/2003,,03/18/2003,04/08/2003,,Y,04/14/2003,Visa
+Iowa,80,HF372,03/03/2003,,,,03/31/2003,,,"Alien, Foreign"
+Iowa,80,HF350,02/28/2003,,,,04/03/2003,,,Foreign
+Iowa,80,HF327,02/26/2003,,,,,,,Foreign
+Iowa,80,HF472,03/06/2003,,03/18/2003,04/07/2003,,Y,04/14/2003,Migrant
+Iowa,80,HF468,03/06/2003,,,,,,,Foreign
+Iowa,80,HF450,03/05/2003,,03/20/2003,04/28/2003,04/28/2003,,,Alien
+Iowa,80,HF448,03/05/2003,,,,03/09/2004,,,Alien
+Iowa,80,HF445,03/05/2003,,,,,,,Citizenship
+Iowa,80,HF415,03/04/2003,,,,,,,Citizenship
+Iowa,80,HF402,03/04/2003,,,,,,,Citizenship
+Iowa,80,HF534,03/13/2003,,04/21/2003,04/30/2003,,Y,05/23/2003,Foreign
+Iowa,80,HF521,03/12/2003,,,,,,,Foreign
+Iowa,80,HF514,03/12/2003,,,,,,,Foreign
+Iowa,80,HF512,03/12/2003,,,,,,,Foreign
+Iowa,80,HF700,04/30/2003,,,,05/01/2003,,,Foreign
+Iowa,80,HF692,04/22/2003,,06/03/2003,06/04/2003,,Y,06/19/2003,Foreign
+Iowa,80,HF686,04/18/2003,,04/25/2003,,04/28/2003,,,Visa
+Iowa,80,HF683,04/16/2003,,06/03/2003,06/04/2003,04/30/2003,Y,06/19/2003,"Citizenship, Migrant, Visa, Border, Foreign"
+Iowa,80,HF647,03/19/2003,,03/31/2003,04/16/2003,03/31/2003,Y,04/28/2003,"Alien, Foreign"
+Iowa,80,HF636,03/19/2003,,04/07/2003,03/31/2003,,Y,04/14/2003,"Visa, Foreign"
+Iowa,80,HF633,03/19/2003,,03/25/2003,,,,,"Alien, Foreign"
+Iowa,80,HF617,03/18/2003,,04/03/2003,04/16/2003,,Y,04/28/2003,Foreign
+Iowa,80,HF615,03/18/2003,,03/24/2003,03/31/2003,,Y,04/09/2003,Visa
+Iowa,80,HF612,03/18/2003,,03/31/2003,04/07/2003,,Y,04/14/2003,Alien
+Iowa,80,HF611,03/18/2003,,,,,,,Foreign
+Iowa,80,HF610,03/18/2003,,,,,,,Visa
+Iowa,80,HF607,03/17/2003,,,,,,,Foreign
+Iowa,80,HF605,03/17/2003,,,,02/19/2004,,,Citizenship
+Iowa,80,SF97,02/05/2003,,03/17/2003,03/12/2003,03/12/2003,Y,03/28/2003,"Border, Foreign"
+Iowa,80,SF60,01/29/2003,,,,,,,Border
+Iowa,80,SF59,01/28/2003,,,,,,,Visa
+Iowa,80,SF41,01/23/2003,,,,,,,Foreign
+Iowa,80,SF31,01/21/2003,,,,,,,Foreign
+Iowa,80,SF172,02/19/2003,,04/17/2003,04/14/2003,,Y,04/28/2003,Foreign
+Iowa,80,SF165,02/18/2003,,,,,,,Foreign
+Iowa,80,SF153,02/17/2003,,,,,,,Foreign
+Iowa,80,SF132,02/12/2003,,,,,,,Visa
+Iowa,80,SF129,02/12/2003,,,,,,,Visa
+Iowa,80,SF124,02/12/2003,,,,,,,Visa
+Iowa,80,SF113,02/11/2003,,,,,,,Foreign
+Iowa,80,SF300,03/06/2003,,04/08/2003,,04/08/2003,,,Foreign
+Iowa,80,SF297,03/05/2003,,04/05/2004,03/30/2004,03/30/2004,Y,05/06/2004,Foreign
+Iowa,80,SF283,03/05/2003,,,,,,,"Alien, Foreign"
+Iowa,80,SF394,03/17/2003,,03/24/2003,04/15/2003,,Y,04/25/2003,Visa
+Iowa,80,SF389,03/13/2003,,,,04/07/2003,,,"Alien, Foreign"
+Iowa,80,SF375,03/13/2003,,03/26/2003,04/22/2003,,Y,05/01/2003,Foreign
+Iowa,80,SF374,03/13/2003,,,,,,,Foreign
+Iowa,80,SF372,03/13/2003,,04/02/2003,04/17/2003,,Y,05/01/2003,Foreign
+Iowa,80,SF365,03/12/2003,,,,03/31/2003,,,"Visa, Foreign"
+Iowa,80,SF360,03/12/2003,,,,,,,Citizenship
+Iowa,80,SF354,03/12/2003,,04/23/2003,04/22/2003,,Y,05/30/2003,Alien
+Iowa,80,SF353,03/12/2003,,03/18/2003,04/22/2003,,Y,05/02/2003,Visa
+Iowa,80,SF340,03/11/2003,,03/18/2003,04/15/2003,04/16/2003,Y,04/25/2003,Foreign
+Iowa,80,SF312,03/06/2003,,,,,,,Alien
+Iowa,80,SF311,03/06/2003,,,,,,,Citizenship
+Iowa,80,SF458,04/29/2003,,05/01/2003,05/01/2003,05/01/2003,Y,05/30/2003,Foreign
+Iowa,80,SF456,04/24/2003,,,,,,,Visa
+Iowa,80,SF448,04/16/2003,,04/24/2003,,,,,Citizenship
+Iowa,80,SF433,03/25/2003,,04/17/2003,04/09/2003,05/01/2003,Y,05/30/2003,Immigration
+Iowa,80,HSB147,,,,,,,,Visa
+Iowa,80,HSB266,,,,,,,,"Alien, Foreign"
+Iowa,80,HSB261,,,,,,,,Visa
+Iowa,80,HSB240,,,,,,,,"Visa, Foreign"
+Iowa,80,HSB683,,,,,,,,Foreign
+Iowa,80,HSB682,,,,,,,,"Visa, Foreign"
+Iowa,80,HSB676,,,,,,,,Foreign
+Iowa,80,HSB674,,,,,,,,Foreign
+Iowa,80,HSB664,,,,,,,,Foreign
+Iowa,80,HSB658,,,,,,,,Foreign
+Iowa,80,HSB648,,,,,,,,"Visa, Foreign"
+Iowa,80,HSB642,,,,,,,,Citizenship
+Iowa,80,HSB626,,,,,,,,Foreign
+Iowa,80,HSB730,,,,,,,,Foreign
+Iowa,80,HSB727,,,,,,,,Foreign
+Iowa,80,HSB725,,,,,,,,Foreign
+Iowa,80,HSB719,,,,,,,,Foreign
+Iowa,80,HSB715,,,,,,,,Foreign
+Iowa,80,HSB710,,,,,,,,"Citizenship, Foreign"
+Iowa,80,HSB705,,,,,,,,Border
+Iowa,81,HF87,01/19/2005,,,,,,,Foreign
+Iowa,81,HF80,01/19/2005,,,,,,,Citizenship
+Iowa,81,HF78,01/19/2005,,,,,,,Citizenship
+Iowa,81,HF75,01/14/2005,,,,,,,Citizenship
+Iowa,81,HF68,01/14/2005,,,,,,,Foreign
+Iowa,81,HF58,01/12/2005,,,,,,,Border
+Iowa,81,HF188,02/02/2005,,,,,,,Foreign
+Iowa,81,HF186,02/02/2005,,02/14/2005,04/05/2005,,Y,04/13/2005,Foreign
+Iowa,81,HF178,02/02/2005,,,,,,,Foreign
+Iowa,81,HF175,02/02/2005,,02/09/2005,02/24/2005,,Y,03/03/2005,Foreign
+Iowa,81,HF168,02/01/2005,,,,,,,Foreign
+Iowa,81,HF149,01/31/2005,,,,04/26/2005,,,Undocumented
+Iowa,81,HF146,01/31/2005,,,,03/14/2005,,,Foreign
+Iowa,81,HF130,01/25/2005,,,,,,,Undocumented
+Iowa,81,HF129,01/25/2005,,,,03/14/2005,,,Foreign
+Iowa,81,HF282,02/11/2005,,,,,,,Foreign
+Iowa,81,HF243,02/09/2005,,,,,,,Foreign
+Iowa,81,HF227,02/09/2005,,03/29/2005,03/14/2005,,Y,04/06/2005,Foreign
+Iowa,81,HF226,02/09/2005,,,,,,,"Visa, Foreign"
+Iowa,81,HF216,02/04/2005,,02/14/2005,02/24/2005,,Y,03/15/2005,Foreign
+Iowa,81,HF397,02/23/2005,,,,,,,Visa
+Iowa,81,HF396,02/23/2005,,,,,,,Citizenship
+Iowa,81,HF387,02/23/2005,,,,04/25/2005,,,Foreign
+Iowa,81,HF357,02/18/2005,,,,,,,Foreign
+Iowa,81,HF328,02/16/2005,,,,03/16/2005,,,Foreign
+Iowa,81,HF301,02/14/2005,,,,,,,Foreign
+Iowa,81,HF425,02/23/2005,,,,04/13/2005,,,"Visa, Foreign"
+Iowa,81,HF423,02/23/2005,,03/14/2005,04/18/2005,04/18/2005,Y,04/29/2005,Foreign
+Iowa,81,HF413,02/23/2005,,,,,,,Border
+Iowa,81,HF575,03/04/2005,,,,,,,Border
+Iowa,81,HF553,03/03/2005,,,,,,,"Alien, Foreign"
+Iowa,81,HF542,03/02/2005,,,,03/16/2005,,,Foreign
+Iowa,81,HF514,03/02/2005,,,,,,,Visa
+Iowa,81,HF700,03/11/2005,,03/16/2005,04/11/2005,,Y,04/29/2005,Foreign
+Iowa,81,HF686,03/09/2005,,04/13/2005,,04/13/2005,,,Visa
+Iowa,81,HF640,03/08/2005,,,,04/26/2005,,,Undocumented
+Iowa,81,HF624,03/08/2005,,03/16/2005,,,,,Foreign
+Iowa,81,HF622,03/08/2005,,,,04/12/2005,,,Visa
+Iowa,81,HF612,03/07/2005,,,,03/30/2005,,,"Citizenship, Alien"
+Iowa,81,HF609,03/07/2005,,,,03/29/2005,,,"Alien, Foreign"
+Iowa,81,HF798,03/16/2005,,,,03/29/2005,,,Foreign
+Iowa,81,HF785,03/15/2005,,,,04/28/2005,,,Alien
+Iowa,81,HF784,03/15/2005,,03/23/2005,04/14/2005,,Y,04/22/2005,Foreign
+Iowa,81,HF782,03/15/2005,,,,,,,Visa
+Iowa,81,HF763,03/15/2005,,,,04/14/2005,,,"Alien, Foreign"
+Iowa,81,HF749,03/14/2005,,,,,,,Foreign
+Iowa,81,HF740,03/14/2005,,03/22/2005,,,,,Foreign
+Iowa,81,HF733,03/11/2005,,,,04/13/2005,,,"Visa, Foreign"
+Iowa,81,HF721,03/11/2005,,,,,,,Border
+Iowa,81,HF882,04/28/2005,,05/20/2005,05/20/2005,05/20/2005,Y,06/16/2005,"Visa, Foreign"
+Iowa,81,HF868,04/19/2005,,05/20/2005,05/20/2005,05/20/2005,Y,06/09/2005,"Visa, Foreign"
+Iowa,81,HF859,04/15/2005,,04/20/2005,04/29/2005,,Y,05/20/2005,"Visa, Foreign"
+Iowa,81,HF854,04/13/2005,,,,04/19/2005,,,Foreign
+Iowa,81,HF851,04/13/2005,,,,,,,Foreign
+Iowa,81,HF836,04/04/2005,,04/14/2005,04/27/2005,,Y,05/12/2005,"Alien, Foreign"
+Iowa,81,HF835,04/04/2005,,04/13/2005,,,,,"Visa, Foreign"
+Iowa,81,HF828,03/29/2005,,05/10/2005,05/05/2005,04/26/2005,Y,05/23/2005,Undocumented
+Iowa,81,HF825,03/24/2005,,05/20/2005,05/20/2005,05/19/2005,Y,06/14/2005,Foreign
+Iowa,81,HF816,03/22/2005,,05/20/2005,05/20/2005,05/10/2005,Y,06/06/2005,Visa
+Iowa,81,HF809,03/17/2005,,04/28/2005,05/03/2005,05/20/2005,Y,06/09/2005,"Immigration, Alien"
+Iowa,81,HF806,03/17/2005,,,,04/20/2005,,,"Visa, Foreign"
+Iowa,81,SF63,01/25/2005,,,,,,,Citizenship
+Iowa,81,SF51,01/24/2005,,,,,,,Foreign
+Iowa,81,SF186,02/21/2005,,,,,,,Foreign
+Iowa,81,SF175,02/17/2005,,,,03/14/2005,,,Foreign
+Iowa,81,SF158,02/15/2005,,,,,,,Foreign
+Iowa,81,SF283,03/07/2005,,03/29/2005,04/12/2005,03/29/2005,Y,04/19/2005,Visa
+Iowa,81,SF277,03/07/2005,,,,,,,Visa
+Iowa,81,SF271,03/07/2005,,,,,,,Undocumented
+Iowa,81,SF270,03/03/2005,,03/09/2005,03/30/2005,,Y,04/06/2005,"Citizenship, Alien"
+Iowa,81,SF229,02/28/2005,,,,,,,Undocumented
+Iowa,81,SF367,03/14/2005,,03/23/2005,,,,,Foreign
+Iowa,81,SF364,03/14/2005,,,,,,,Citizenship
+Iowa,81,SF360,03/14/2005,,04/04/2005,04/19/2005,04/19/2005,Y,04/28/2005,Foreign
+Iowa,81,SF348,03/10/2005,,,,,,,Visa
+Iowa,81,SF338,03/10/2005,,,,,,,Alien
+Iowa,81,SF330,03/10/2005,,04/19/2005,04/21/2005,,Y,04/28/2005,Foreign
+Iowa,81,SF312,03/08/2005,,,,,,,Foreign
+Iowa,81,SF413,04/21/2005,,05/05/2005,05/09/2005,05/05/2005,Y,06/03/2005,Border
+Iowa,81,HSB92,,,,,,,,Foreign
+Iowa,81,HSB69,,,,,,,,Foreign
+Iowa,81,HSB58,,,,,,,,Citizenship
+Iowa,81,HSB57,,,,,,,,Visa
+Iowa,81,HSB54,,,,,,,,Foreign
+Iowa,81,HSB35,,,,,,,,Foreign
+Iowa,81,HSB28,,,,,,,,Undocumented
+Iowa,81,HSB18,,,,,,,,"Citizenship, Foreign"
+Iowa,81,HSB11,,,,,,,,Foreign
+Iowa,81,HSB199,,,,,,,,Foreign
+Iowa,81,HSB193,,,,,,,,Alien
+Iowa,81,HSB182,,,,,,,,Visa
+Iowa,81,HSB169,,,,,,,,"Alien, Foreign"
+Iowa,81,HSB145,,,,,,,,Visa
+Iowa,81,HSB139,,,,,,,,Border
+Iowa,81,HSB125,,,,,,,,Foreign
+Iowa,81,HSB122,,,,,,,,Foreign
+Iowa,81,HSB118,,,,,,,,Foreign
+Iowa,81,HSB109,,,,,,,,Visa
+Iowa,81,HSB107,,,,,,,,"Citizenship, Foreign"
+Iowa,81,HSB277,,,,,,,,Immigration
+Iowa,81,HSB273,,,,,,,,Foreign
+Iowa,81,HSB257,,,,,,,,"Visa, Border"
+Iowa,81,HSB251,,,,,,,,Foreign
+Iowa,81,HSB243,,,,,,,,Foreign
+Iowa,81,HSB238,,,,,,,,Foreign
+Iowa,81,HSB224,,,,,,,,Border
+Iowa,81,HSB223,,,,,,,,Alien
+Iowa,81,HSB221,,,,,,,,Visa
+Iowa,81,HSB212,,,,,,,,"Alien, Foreign"
+Iowa,81,HSB211,,,,,,,,Foreign
+Iowa,81,HSB210,,,,,,,,"Citizenship, Alien"
+Iowa,81,HSB201,,,,,,,,Visa
+Iowa,81,HSB304,,,,,,,,Border
+Iowa,81,HSB594,,,,,,,,Foreign
+Iowa,81,HSB585,,,,,,,,Foreign
+Iowa,81,HSB557,,,,,,,,"Citizenship, Alien"
+Iowa,81,HSB550,,,,,,,,Citizenship
+Iowa,81,HSB532,,,,,,,,Foreign
+Iowa,81,HSB700,,,,,,,,Foreign
+Iowa,81,HSB698,,,,,,,,Citizenship
+Iowa,81,HSB676,,,,,,,,"Citizenship, Foreign"
+Iowa,81,HSB669,,,,,,,,Foreign
+Iowa,81,HSB667,,,,,,,,Foreign
+Iowa,81,HSB664,,,,,,,,Foreign
+Iowa,81,HSB647,,,,,,,,Visa
+Iowa,81,HSB644,,,,,,,,Alien
+Iowa,81,HSB639,,,,,,,,Foreign
+Iowa,81,HSB636,,,,,,,,Foreign
+Iowa,81,HSB628,,,,,,,,"Citizenship, Foreign"
+Iowa,81,HSB615,,,,,,,,Foreign
+Iowa,81,HSB779,,,,,,,,Foreign
+Iowa,81,HSB778,,,,,,,,Visa
+Iowa,81,HSB776,,,,,,,,Border
+Iowa,81,HSB752,,,,,,,,Foreign
+Iowa,81,HSB750,,,,,,,,"Alien, Foreign"
+Iowa,81,HSB728,,,,,,,,Foreign
+Iowa,81,HSB718,,,,,,,,Foreign
+Iowa,81,HSB706,,,,,,,,"Immigration, Alien"
+Iowa,82,HF82,01/22/2007,,,,,,,Foreign
+Iowa,82,HF74,01/22/2007,,,,,,,Border
+Iowa,82,HF3,01/08/2007,,,,,,,Border
+Iowa,82,HF2,01/08/2007,,,,,,,Border
+Iowa,82,HF114,01/24/2007,,,,,,,Visa
+Iowa,82,HF267,02/08/2007,,,,,,,Foreign
+Iowa,82,HF262,02/08/2007,,,,,,,Foreign
+Iowa,82,HF257,02/07/2007,,,,,,,Foreign
+Iowa,82,HF254,02/07/2007,,,,,,,Foreign
+Iowa,82,HF253,02/07/2007,,,,,,,Foreign
+Iowa,82,HF252,02/07/2007,,,,,,,Visa
+Iowa,82,HF236,02/06/2007,,,,,,,Foreign
+Iowa,82,HF230,02/05/2007,,,,,,,Foreign
+Iowa,82,HF393,02/15/2007,,,,,,,Foreign
+Iowa,82,HF356,02/13/2007,,,,,,,Foreign
+Iowa,82,HF350,02/13/2007,,,,,,,Citizenship
+Iowa,82,HF335,02/12/2007,,,,03/20/2007,,,Foreign
+Iowa,82,HF499,02/22/2007,,04/17/2007,04/12/2007,,Y,05/09/2007,"Alien, Foreign"
+Iowa,82,HF498,02/22/2007,,,,,,,Foreign
+Iowa,82,HF477,02/21/2007,,,,,,,Border
+Iowa,82,HF470,02/21/2007,,,,,,,Citizenship
+Iowa,82,HF401,02/15/2007,,,,02/21/2007,,,"Border, Foreign"
+Iowa,82,HF581,02/28/2007,,,,,,,Alien
+Iowa,82,HF567,02/28/2007,,,,03/13/2007,,,Foreign
+Iowa,82,HF516,02/23/2007,,,,03/13/2007,,,Foreign
+Iowa,82,HF660,03/05/2007,,,,,,,Visa
+Iowa,82,HF658,03/05/2007,,,,,,,"Visa, Border"
+Iowa,82,HF657,03/05/2007,,,,,,,"Immigration, Alien"
+Iowa,82,HF652,03/05/2007,,,,,,,Citizenship
+Iowa,82,HF639,03/05/2007,,,,,,,Foreign
+Iowa,82,HF618,03/05/2007,,03/26/2007,03/28/2007,03/26/2007,Y,04/03/2007,Foreign
+Iowa,82,HF897,04/10/2007,,04/27/2007,04/28/2007,04/27/2007,Y,05/25/2007,Foreign
+Iowa,82,HF875,03/22/2007,,,,03/27/2007,,,Foreign
+Iowa,82,HF863,03/20/2007,,,,,,,Foreign
+Iowa,82,HF854,03/19/2007,,,,,,,Visa
+Iowa,82,HF807,03/14/2007,,,,03/27/2007,,,Foreign
+Iowa,82,HF925,04/20/2007,,04/25/2007,04/27/2007,,Y,05/11/2007,Foreign
+Iowa,82,HF924,04/20/2007,,04/27/2007,04/28/2007,,Y,05/24/2007,Foreign
+Iowa,82,HF923,04/20/2007,,04/27/2007,04/28/2007,,Y,05/24/2007,Visa
+Iowa,82,HF918,04/19/2007,,04/24/2007,04/27/2007,04/27/2007,Y,05/23/2007,Foreign
+Iowa,82,HF912,04/18/2007,,04/25/2007,04/25/2007,04/25/2007,Y,05/25/2007,Foreign
+Iowa,82,HF909,04/16/2007,,04/27/2007,04/28/2007,04/25/2007,Y,05/29/2007,"Migrant, Foreign"
+Iowa,82,SF78,01/31/2007,,03/19/2007,03/13/2007,,Y,03/29/2007,Foreign
+Iowa,82,SF74,01/30/2007,,02/08/2007,02/21/2007,,Y,03/09/2007,"Border, Foreign"
+Iowa,82,SF62,01/25/2007,,01/30/2007,,,,,"Visa, Foreign"
+Iowa,82,SF53,01/24/2007,,,,01/31/2007,,,Border
+Iowa,82,SF42,01/23/2007,,02/21/2007,04/10/2007,,Y,04/16/2007,Foreign
+Iowa,82,SF38,01/23/2007,,,,,,,Visa
+Iowa,82,SF21,01/11/2007,,,,,,,Border
+Iowa,82,SF200,02/19/2007,,03/14/2007,04/09/2007,04/09/2007,Y,04/16/2007,Border
+Iowa,82,SF163,02/13/2007,,,,,,,Foreign
+Iowa,82,SF129,02/08/2007,,02/14/2007,04/04/2007,,Y,04/10/2007,Foreign
+Iowa,82,SF290,02/27/2007,,,,,,,Visa
+Iowa,82,SF272,02/22/2007,,03/12/2007,03/13/2007,,Y,03/23/2007,Foreign
+Iowa,82,SF267,02/22/2007,,,,,,,Citizenship
+Iowa,82,SF250,02/21/2007,,,,,,,"Citizenship, Alien"
+Iowa,82,SF397,03/07/2007,,,,,,,"Visa, Foreign"
+Iowa,82,SF377,03/06/2007,,,,,,,"Citizenship, Foreign"
+Iowa,82,SF370,03/06/2007,,,,,,,Visa
+Iowa,82,SF361,03/06/2007,,03/21/2007,03/27/2007,03/27/2007,Y,04/04/2007,Foreign
+Iowa,82,SF333,03/05/2007,,04/17/2007,04/09/2007,,Y,05/09/2007,Alien
+Iowa,82,SF500,03/12/2007,,,,,,,Foreign
+Iowa,82,SF492,03/12/2007,,,,,,,Alien
+Iowa,82,SF459,03/08/2007,,,,,,,Foreign
+Iowa,82,SF456,03/08/2007,,,,,,,Foreign
+Iowa,82,SF442,03/08/2007,,03/14/2007,,,,,Foreign
+Iowa,82,SF436,03/08/2007,,,,,,,Alien
+Iowa,82,SF433,03/08/2007,,,,,,,Foreign
+Iowa,82,SF431,03/08/2007,,03/14/2007,03/27/2007,,Y,04/10/2007,Visa
+Iowa,82,SF430,03/08/2007,,04/19/2007,04/18/2007,04/18/2007,Y,05/25/2007,Foreign
+Iowa,82,SF423,03/08/2007,,,,,,,"Immigration, Citizenship"
+Iowa,82,SF401,03/07/2007,,,,04/09/2007,,,Foreign
+Iowa,82,SF599,04/19/2007,,04/19/2007,,,,,Foreign
+Iowa,82,SF596,04/18/2007,,04/19/2007,,04/19/2007,,,Visa
+Iowa,82,SF593,04/18/2007,,04/27/2007,04/27/2007,,Y,05/24/2007,Foreign
+Iowa,82,SF591,04/18/2007,,04/19/2007,,,,,"Citizenship, Alien"
+Iowa,82,SF575,04/02/2007,,04/24/2007,04/23/2007,04/23/2007,Y,05/29/2007,Foreign
+Iowa,82,SF569,03/29/2007,,04/09/2007,,,,,Foreign
+Iowa,82,SF562,03/21/2007,,04/05/2007,04/17/2007,04/17/2007,Y,05/29/2007,"Immigration, Alien, Border"
+Iowa,82,SF561,03/19/2007,,,,,,,Foreign
+Iowa,82,SF559,03/15/2007,,04/26/2007,04/25/2007,04/25/2007,Y,05/24/2007,Foreign
+Iowa,82,SF557,03/15/2007,,03/19/2007,04/24/2007,,Y,05/24/2007,Visa
+Iowa,82,SF547,03/14/2007,,,,,,,Foreign
+Iowa,82,SF543,03/13/2007,,04/03/2007,04/17/2007,,,,Border
+Iowa,82,SF536,03/13/2007,,,,,,,Foreign
+Iowa,82,SF535,03/13/2007,,03/21/2007,03/27/2007,03/21/2007,Y,04/04/2007,Foreign
+Iowa,82,SF534,03/13/2007,,03/20/2007,,,,,Foreign
+Iowa,82,SF530,03/13/2007,,04/23/2007,04/20/2007,04/20/2007,Y,05/11/2007,Foreign
+Iowa,82,SF518,03/13/2007,,03/26/2007,04/17/2007,,Y,05/11/2007,Foreign
+Iowa,82,SF601,04/20/2007,,04/28/2007,04/28/2007,04/28/2007,Y,05/29/2007,Foreign
+Iowa,82,HSB52,,,,,,,,Foreign
+Iowa,82,HSB41,,,,,,,,Foreign
+Iowa,82,HSB35,,,,,,,,"Citizenship, Alien"
+Iowa,82,HSB32,,,,,,,,Foreign
+Iowa,82,HSB20,,,,,,,,"Border, Foreign"
+Iowa,82,HSB17,,,,,,,,"Visa, Foreign"
+Iowa,82,HSB16,,,,,,,,"Visa, Foreign"
+Iowa,82,HSB14,,,,,,,,Citizenship
+Iowa,82,HSB8,,,,,,,,Foreign
+Iowa,82,HSB196,,,,,,,,Foreign
+Iowa,82,HSB195,,,,,,,,Alien
+Iowa,82,HSB190,,,,,,,,Foreign
+Iowa,82,HSB186,,,,,,,,Visa
+Iowa,82,HSB183,,,,,,,,Foreign
+Iowa,82,HSB163,,,,,,,,Foreign
+Iowa,82,HSB153,,,,,,,,Citizenship
+Iowa,82,HSB143,,,,,,,,Foreign
+Iowa,82,HSB132,,,,,,,,Foreign
+Iowa,82,HSB131,,,,,,,,Foreign
+Iowa,82,HSB120,,,,,,,,"Alien, Foreign"
+Iowa,82,HSB106,,,,,,,,Visa
+Iowa,82,HSB290,,,,,,,,"Immigration, Alien, Border"
+Iowa,82,HSB286,,,,,,,,Citizenship
+Iowa,82,HSB264,,,,,,,,Foreign
+Iowa,82,HSB257,,,,,,,,Foreign
+Iowa,82,HSB250,,,,,,,,Visa
+Iowa,82,HSB232,,,,,,,,Visa
+Iowa,82,HSB227,,,,,,,,Visa
+Iowa,82,HSB211,,,,,,,,Foreign
+Iowa,82,HSB201,,,,,,,,Foreign
+Iowa,82,HSB320,,,,,,,,Foreign
+Iowa,82,HSB318,,,,,,,,Foreign
+Iowa,82,HSB311,,,,,,,,Foreign
+Iowa,82,HSB305,,,,,,,,Foreign
+Iowa,82,HSB304,,,,,,,,Foreign
+Iowa,82,HSB595,,,,,,,,Foreign
+Iowa,82,HSB578,,,,,,,,"Visa, Foreign"
+Iowa,82,HSB560,,,,,,,,Foreign
+Iowa,82,HSB554,,,,,,,,Foreign
+Iowa,82,HSB546,,,,,,,,Citizenship
+Iowa,82,HSB534,,,,,,,,Visa
+Iowa,82,HSB512,,,,,,,,Foreign
+Iowa,82,HSB502,,,,,,,,Visa
+Iowa,82,HSB687,,,,,,,,Citizenship
+Iowa,82,HSB677,,,,,,,,"Citizenship, Alien, Visa, Border, Foreign"
+Iowa,82,HSB670,,,,,,,,Alien
+Iowa,82,HSB656,,,,,,,,Foreign
+Iowa,82,HSB654,,,,,,,,Foreign
+Iowa,82,HSB648,,,,,,,,Foreign
+Iowa,82,HSB646,,,,,,,,Foreign
+Iowa,82,HSB628,,,,,,,,Foreign
+Iowa,82,HSB627,,,,,,,,"Citizenship, Visa"
+Iowa,82,HSB615,,,,,,,,Border
+Iowa,82,HSB610,,,,,,,,Foreign
+Iowa,82,HSB797,,,,,,,,Foreign
+Iowa,82,HSB796,,,,,,,,Citizenship
+Iowa,82,HSB795,,,,,,,,Migrant
+Iowa,82,HSB789,,,,,,,,Migrant
+Iowa,82,HSB783,,,,,,,,Foreign
+Iowa,82,HSB773,,,,,,,,Foreign
+Iowa,82,HSB765,,,,,,,,Foreign
+Iowa,82,HSB764,,,,,,,,"Border, Foreign"
+Iowa,82,HSB753,,,,,,,,Foreign
+Iowa,82,HSB748,,,,,,,,Foreign
+Iowa,82,HSB745,,,,,,,,Foreign
+Iowa,82,HSB737,,,,,,,,"Visa, Foreign"
+Iowa,82,HSB736,,,,,,,,"Alien, Visa, Foreign"
+Iowa,82,HSB729,,,,,,,,Visa
+Iowa,82,HSB726,,,,,,,,Foreign
+Iowa,82,HSB714,,,,,,,,"Border, Foreign"
+Iowa,82,HSB708,,,,,,,,"Immigration, Citizenship, Alien, Foreign"
+Iowa,82,HSB707,,,,,,,,"Citizenship, Alien, Foreign"
+Iowa,83,HF35,01/16/2009,,,,,,,Visa
+Iowa,83,HF192,02/03/2009,,,,,,,Border
+Iowa,83,HF191,02/03/2009,,,,01/14/2010,,,Foreign
+Iowa,83,HF190,02/03/2009,,,,,,,Visa
+Iowa,83,HF186,02/03/2009,,,,01/14/2010,,,Foreign
+Iowa,83,HF165,02/02/2009,,,,,,,Visa
+Iowa,83,HF146,01/29/2009,,,,,,,Foreign
+Iowa,83,HF141,01/29/2009,,,,,,,Citizenship
+Iowa,83,HF140,01/28/2009,,,,01/14/2010,,,Foreign
+Iowa,83,HF131,01/28/2009,,,,,,,Visa
+Iowa,83,HF124,01/28/2009,,,,,,,Immigration
+Iowa,83,HF109,01/28/2009,,,,,,,"Immigration, Citizenship"
+Iowa,83,HF107,01/28/2009,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,83,HF298,02/12/2009,,,,,,,Visa
+Iowa,83,HF265,02/11/2009,,,,01/14/2010,,,Visa
+Iowa,83,HF260,02/11/2009,,02/17/2009,04/09/2009,04/09/2009,Y,05/18/2009,Visa
+Iowa,83,HF253,02/10/2009,,,,,,,Foreign
+Iowa,83,HF364,02/18/2009,,,,03/10/2009,,,Foreign
+Iowa,83,HF346,02/17/2009,,,,,,,Foreign
+Iowa,83,HF344,02/17/2009,,,,,,,Alien
+Iowa,83,HF340,02/17/2009,,,,,,,Visa
+Iowa,83,HF306,02/13/2009,,,,,,,"Visa, Foreign"
+Iowa,83,HF495,03/02/2009,,,,,,,Foreign
+Iowa,83,HF409,02/23/2009,,,,,,,Foreign
+Iowa,83,HF401,02/23/2009,,,,,,,Visa
+Iowa,83,HF592,03/06/2009,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,83,HF591,03/06/2009,,,,,,,Visa
+Iowa,83,HF553,03/04/2009,,,,,,,"Immigration, Alien"
+Iowa,83,HF532,03/04/2009,,,,,,,Visa
+Iowa,83,HF687,03/11/2009,,03/24/2009,04/01/2009,03/24/2009,Y,04/09/2009,Visa
+Iowa,83,HF685,03/11/2009,,,,,,,Foreign
+Iowa,83,HF626,03/10/2009,,,,,,,Foreign
+Iowa,83,HF800,03/18/2009,,,,,,,Foreign
+Iowa,83,HF780,03/18/2009,,,,,,,Foreign
+Iowa,83,HF779,03/18/2009,,,,04/02/2009,,,Border
+Iowa,83,HF774,03/18/2009,,,,04/02/2009,,,Foreign
+Iowa,83,HF761,03/17/2009,,,,,,,Visa
+Iowa,83,HF756,03/17/2009,,04/22/2009,04/21/2009,,Y,05/22/2009,Border
+Iowa,83,HF734,03/16/2009,,03/11/2010,03/08/2010,,Y,03/22/2010,Foreign
+Iowa,83,HF733,03/16/2009,,,,03/23/2009,,,"Visa, Border, Foreign"
+Iowa,83,HF732,03/16/2009,,,,,,,"Visa, Foreign"
+Iowa,83,HF724,03/13/2009,,,,03/23/2009,,,Foreign
+Iowa,83,HF723,03/13/2009,,03/18/2009,04/06/2009,,Y,05/22/2009,Foreign
+Iowa,83,HF722,03/13/2009,,03/23/2009,04/15/2009,03/23/2009,Y,05/22/2009,Alien
+Iowa,83,HF713,03/12/2009,,03/18/2009,,,,,"Immigration, Citizenship, Visa, Foreign"
+Iowa,83,HF829,04/23/2009,,,,,,,Border
+Iowa,83,HF822,04/09/2009,,04/25/2009,04/25/2009,04/26/2009,Y,05/26/2009,Migrant
+Iowa,83,HF809,04/01/2009,,04/23/2009,04/23/2009,04/26/2009,Y,05/26/2009,Foreign
+Iowa,83,SF89,02/03/2009,,,,,,,Foreign
+Iowa,83,SF171,02/17/2009,,,,,,,Foreign
+Iowa,83,SF144,02/11/2009,,,,,,,Visa
+Iowa,83,SF138,02/11/2009,,,,,,,Visa
+Iowa,83,SF282,03/02/2009,,,,,,,Foreign
+Iowa,83,SF270,02/26/2009,,03/09/2009,03/10/2009,,Y,03/16/2009,Foreign
+Iowa,83,SF221,02/24/2009,,,,,,,Foreign
+Iowa,83,SF388,03/10/2009,,,,,,,"Citizenship, Alien"
+Iowa,83,SF380,03/09/2009,,04/07/2009,03/30/2009,,Y,04/24/2009,Foreign
+Iowa,83,SF376,03/09/2009,,04/25/2009,04/24/2009,04/26/2009,Y,05/14/2009,Visa
+Iowa,83,SF358,03/09/2009,,03/17/2009,03/08/2010,,Y,03/19/2010,Foreign
+Iowa,83,SF356,03/09/2009,,04/08/2009,04/02/2009,,Y,05/22/2009,Foreign
+Iowa,83,SF355,03/09/2009,,03/17/2009,04/02/2009,,Y,04/15/2009,Foreign
+Iowa,83,SF353,03/05/2009,,,,,,,Foreign
+Iowa,83,SF349,03/05/2009,,,,,,,Foreign
+Iowa,83,SF340,03/05/2009,,04/23/2009,04/24/2009,,Y,05/21/2009,"Immigration, Alien, Foreign"
+Iowa,83,SF339,03/05/2009,,04/07/2009,03/31/2009,,Y,04/20/2009,Visa
+Iowa,83,SF313,03/04/2009,,,,,,,Foreign
+Iowa,83,SF311,03/03/2009,,03/19/2009,03/23/2009,,Y,04/02/2009,Foreign
+Iowa,83,SF475,04/08/2009,,04/21/2009,04/22/2009,04/25/2009,Y,05/26/2009,Foreign
+Iowa,83,SF469,04/01/2009,,04/13/2009,04/08/2009,04/26/2009,Y,05/26/2009,"Immigration, Alien"
+Iowa,83,SF449,03/17/2009,,03/19/2009,03/31/2009,,Y,05/22/2009,Foreign
+Iowa,83,SF446,03/17/2009,,03/19/2009,03/23/2009,,Y,04/03/2009,"Visa, Border, Foreign"
+Iowa,83,SF444,03/16/2009,,,,03/08/2010,,,Foreign
+Iowa,83,SF427,03/16/2009,,,,,,,Migrant
+Iowa,83,HSB82,,,,,,,,Citizenship
+Iowa,83,HSB55,,,,,,,,Foreign
+Iowa,83,HSB41,,,,,,,,"Visa, Foreign"
+Iowa,83,HSB26,,,,,,,,Visa
+Iowa,83,HSB22,,,,,,,,"Visa, Foreign"
+Iowa,83,HSB185,,,,,,,,Foreign
+Iowa,83,HSB171,,,,,,,,Citizenship
+Iowa,83,HSB167,,,,,,,,"Immigration, Alien, Foreign"
+Iowa,83,HSB163,,,,,,,,Border
+Iowa,83,HSB152,,,,,,,,Foreign
+Iowa,83,HSB151,,,,,,,,"Visa, Foreign"
+Iowa,83,HSB137,,,,,,,,Foreign
+Iowa,83,HSB136,,,,,,,,"Citizenship, Alien"
+Iowa,83,HSB125,,,,,,,,"Citizenship, Alien"
+Iowa,83,HSB115,,,,,,,,Foreign
+Iowa,83,HSB110,,,,,,,,Visa
+Iowa,83,HSB270,,,,,,,,Foreign
+Iowa,83,HSB264,,,,,,,,Visa
+Iowa,83,HSB263,,,,,,,,Foreign
+Iowa,83,HSB261,,,,,,,,Foreign
+Iowa,83,HSB240,,,,,,,,"Visa, Border, Foreign"
+Iowa,83,HSB239,,,,,,,,Visa
+Iowa,83,HSB234,,,,,,,,Foreign
+Iowa,83,HSB232,,,,,,,,Citizenship
+Iowa,83,HSB225,,,,,,,,Foreign
+Iowa,83,HSB224,,,,,,,,Foreign
+Iowa,83,HSB220,,,,,,,,"Immigration, Citizenship, Visa, Foreign"
+Iowa,83,HSB204,,,,,,,,Foreign
+Iowa,83,HSB586,,,,,,,,Citizenship
+Iowa,83,HSB581,,,,,,,,Migrant
+Iowa,83,HSB580,,,,,,,,"Alien, Visa"
+Iowa,83,HSB571,,,,,,,,Foreign
+Iowa,83,HSB565,,,,,,,,"Alien, Foreign"
+Iowa,83,HSB551,,,,,,,,Foreign
+Iowa,83,HSB507,,,,,,,,Foreign
+Iowa,83,HSB697,,,,,,,,Foreign
+Iowa,83,HSB694,,,,,,,,Foreign
+Iowa,83,HSB692,,,,,,,,Foreign
+Iowa,83,HSB668,,,,,,,,Visa
+Iowa,83,HSB651,,,,,,,,Foreign
+Iowa,83,HSB630,,,,,,,,Foreign
+Iowa,83,HSB624,,,,,,,,Visa
+Iowa,83,HSB623,,,,,,,,Visa
+Iowa,83,HSB622,,,,,,,,Alien
+Iowa,83,HSB618,,,,,,,,Foreign
+Iowa,83,HSB741,,,,,,,,Foreign
+Iowa,83,HSB734,,,,,,,,"Immigration, Alien"
+Iowa,83,HSB731,,,,,,,,Foreign
+Iowa,83,HSB714,,,,,,,,Foreign
+Iowa,83,HSB711,,,,,,,,Foreign
+Iowa,83,HSB704,,,,,,,,Foreign
+Iowa,84,HF95,01/24/2011,,01/27/2011,,,,,Foreign
+Iowa,84,HF64,01/18/2011,,,,03/22/2011,,,Visa
+Iowa,84,HF27,01/12/2011,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,84,HF24,01/12/2011,,,,,,,"Immigration, Citizenship"
+Iowa,84,HF124,01/26/2011,,,,03/16/2011,,,Foreign
+Iowa,84,HF121,01/26/2011,,,,,,,Border
+Iowa,84,HF113,01/26/2011,,,,,,,Citizenship
+Iowa,84,HF108,01/25/2011,,,,,,,Citizenship
+Iowa,84,HF107,01/25/2011,,,,,,,Foreign
+Iowa,84,HF104,01/25/2011,,,,,,,Border
+Iowa,84,HF103,01/25/2011,,,,04/19/2011,,,Border
+Iowa,84,HF264,02/11/2011,,,,,,,Foreign
+Iowa,84,HF241,02/09/2011,,,,,,,Undocumented
+Iowa,84,HF228,02/08/2011,,,,,,,Foreign
+Iowa,84,HF220,02/08/2011,,,,,,,Citizenship
+Iowa,84,HF378,02/23/2011,,,,,,,Border
+Iowa,84,HF354,02/22/2011,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,84,HF489,03/02/2011,,,,,,,Foreign
+Iowa,84,HF483,03/02/2011,,,,03/30/2011,,,Foreign
+Iowa,84,HF482,03/02/2011,,,,04/06/2011,,,"Alien, Foreign"
+Iowa,84,HF480,03/02/2011,,,,,,,Citizenship
+Iowa,84,HF478,03/02/2011,,,,,,,Foreign
+Iowa,84,HF473,03/02/2011,,03/23/2011,,,,,Foreign
+Iowa,84,HF472,03/02/2011,,,,,,,Foreign
+Iowa,84,HF456,03/01/2011,,,,04/19/2011,,,Border
+Iowa,84,HF419,02/25/2011,,,,,,,Alien
+Iowa,84,HF575,03/08/2011,,,,,,,"Alien, Foreign"
+Iowa,84,HF566,03/07/2011,,,,03/22/2011,,,Foreign
+Iowa,84,HF559,03/07/2011,,,,,,,Alien
+Iowa,84,HF553,03/07/2011,,,,,,,Citizenship
+Iowa,84,HF525,03/03/2011,,03/09/2011,,03/09/2011,,,Migrant
+Iowa,84,HF697,06/06/2011,,06/08/2011,,06/08/2011,,,"Citizenship, Alien, Foreign"
+Iowa,84,HF651,03/23/2011,,05/04/2011,05/12/2011,,Y,05/26/2011,Alien
+Iowa,84,HF648,03/16/2011,,06/29/2011,06/29/2011,,Y,07/27/2011,Foreign
+Iowa,84,HF645,03/09/2011,,06/29/2011,06/29/2011,05/12/2011,Y,07/27/2011,Border
+Iowa,84,HF629,03/09/2011,,,,,,,"Immigration, Alien, Border, Foreign"
+Iowa,84,HF603,03/09/2011,,03/22/2011,,03/22/2011,,,Visa
+Iowa,84,SF2,01/10/2011,,,,,,,Foreign
+Iowa,84,SF163,02/07/2011,,,,,,,Border
+Iowa,84,SF158,02/07/2011,,,,,,,Foreign
+Iowa,84,SF142,02/03/2011,,,,,,,Foreign
+Iowa,84,SF125,02/01/2011,,,,,,,Foreign
+Iowa,84,SF102,01/26/2011,,,,,,,"Immigration, Citizenship, Alien, Migrant, Visa"
+Iowa,84,SF293,02/23/2011,,,,,,,Foreign
+Iowa,84,SF276,02/22/2011,,,,,,,Foreign
+Iowa,84,SF264,02/21/2011,,,,,,,Citizenship
+Iowa,84,SF261,,,03/15/2011,,,,,Foreign
+Iowa,84,SF235,02/16/2011,,,,,,,Alien
+Iowa,84,SF208,02/14/2011,,,,,,,Foreign
+Iowa,84,SF391,03/02/2011,,,,,,,Alien
+Iowa,84,SF370,03/02/2011,,,,,,,Visa
+Iowa,84,SF348,03/01/2011,,,,,,,Alien
+Iowa,84,SF347,03/01/2011,,,,,,,Foreign
+Iowa,84,SF343,02/28/2011,,,,,,,Citizenship
+Iowa,84,SF313,02/28/2011,,04/27/2011,06/27/2011,04/25/2011,Y,07/26/2011,Visa
+Iowa,84,SF467,03/07/2011,,,,,,,Visa
+Iowa,84,SF458,03/07/2011,,,,,,,"Border, Foreign"
+Iowa,84,SF455,03/07/2011,,,,,,,Foreign
+Iowa,84,SF447,03/07/2011,,,,,,,Citizenship
+Iowa,84,SF417,03/03/2011,,,,,,,Foreign
+Iowa,84,SF410,03/03/2011,,03/10/2011,04/19/2011,03/10/2011,,,Border
+Iowa,84,SF539,06/20/2011,,06/22/2011,,,,,Border
+Iowa,84,SF538,06/20/2011,,06/22/2011,,,,,Foreign
+Iowa,84,SF533,05/02/2011,,06/29/2011,06/29/2011,05/03/2011,Y,07/27/2011,Foreign
+Iowa,84,SF517,03/28/2011,,06/24/2011,06/27/2011,04/20/2011,Y,07/27/2011,Alien
+Iowa,84,SF510,03/21/2011,,06/24/2011,06/27/2011,06/21/2011,Y,07/29/2011,Foreign
+Iowa,84,HSB91,,,,,,,,Foreign
+Iowa,84,HSB80,,,,,,,,Foreign
+Iowa,84,HSB79,,,,,,,,Foreign
+Iowa,84,HSB16,,,,,,,,Citizenship
+Iowa,84,HSB1,,,,,,,,Alien
+Iowa,84,HSB193,,,,,,,,"Citizenship, Foreign"
+Iowa,84,HSB191,,,,,,,,Alien
+Iowa,84,HSB189,,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,84,HSB181,,,,,,,,Foreign
+Iowa,84,HSB175,,,,,,,,Foreign
+Iowa,84,HSB174,,,,,,,,Foreign
+Iowa,84,HSB171,,,,,,,,"Immigration, Alien"
+Iowa,84,HSB166,,,,,,,,Foreign
+Iowa,84,HSB159,,,,,,,,Alien
+Iowa,84,HSB141,,,,,,,,Foreign
+Iowa,84,HSB130,,,,,,,,Foreign
+Iowa,84,HSB128,,,,,,,,Alien
+Iowa,84,HSB125,,,,,,,,"Alien, Foreign"
+Iowa,84,HSB103,,,,,,,,Foreign
+Iowa,84,HSB596,,,,,,,,"Immigration, Citizenship, Border, Foreign"
+Iowa,84,HSB591,,,,,,,,Foreign
+Iowa,84,HSB582,,,,,,,,Foreign
+Iowa,84,HSB571,,,,,,,,Foreign
+Iowa,84,HSB562,,,,,,,,Citizenship
+Iowa,84,HSB559,,,,,,,,Foreign
+Iowa,84,HSB556,,,,,,,,Alien
+Iowa,84,HSB542,,,,,,,,Foreign
+Iowa,84,HSB540,,,,,,,,Visa
+Iowa,84,HSB534,,,,,,,,Alien
+Iowa,84,HSB530,,,,,,,,Foreign
+Iowa,84,HSB517,,,,,,,,Foreign
+Iowa,84,HSB507,,,,,,,,Foreign
+Iowa,84,HSB657,,,,,,,,Visa
+Iowa,84,HSB653,,,,,,,,Foreign
+Iowa,84,HSB646,,,,,,,,"Alien, Visa, Foreign"
+Iowa,84,HSB638,,,,,,,,"Citizenship, Alien"
+Iowa,84,HSB632,,,,,,,,Visa
+Iowa,84,HSB630,,,,,,,,"Alien, Visa, Foreign"
+Iowa,84,HSB625,,,,,,,,Foreign
+Iowa,84,HSB624,,,,,,,,Citizenship
+Iowa,84,HSB622,,,,,,,,Citizenship
+Iowa,84,HSB621,,,,,,,,Foreign
+Iowa,84,HSB608,,,,,,,,Foreign
+Iowa,84,HSB606,,,,,,,,"Alien, Foreign"
+Iowa,85,HF89,01/29/2013,,,,,,,Foreign
+Iowa,85,HF76,01/28/2013,,,,,,,Foreign
+Iowa,85,HF73,01/28/2013,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,85,HF67,01/24/2013,,,,,,,Foreign
+Iowa,85,HF45,01/16/2013,,,,,,,Citizenship
+Iowa,85,HF183,02/12/2013,,,,,,,Citizenship
+Iowa,85,HF171,02/07/2013,,,,,,,Citizenship
+Iowa,85,HF165,02/07/2013,,,,,,,Visa
+Iowa,85,HF252,02/18/2013,,,,03/29/2013,,,Foreign
+Iowa,85,HF219,02/14/2013,,03/11/2013,,03/11/2013,,,Visa
+Iowa,85,HF368,02/28/2013,,,,,,,"Immigration, Alien"
+Iowa,85,HF485,03/07/2013,,,,,,,Foreign
+Iowa,85,HF460,03/06/2013,,,,02/25/2014,,,Border
+Iowa,85,HF437,03/06/2013,,,,,,,Foreign
+Iowa,85,HF423,03/05/2013,,,,,,,Citizenship
+Iowa,85,HF415,03/04/2013,,,,04/01/2013,,,Visa
+Iowa,85,HF584,03/13/2013,,,,04/17/2013,,,Migrant
+Iowa,85,HF580,03/13/2013,,,,,,,Foreign
+Iowa,85,HF525,03/12/2013,,,,,,,Foreign
+Iowa,85,HF523,03/12/2013,,,,04/09/2013,,,Foreign
+Iowa,85,SF85,01/29/2013,,,,,,,Foreign
+Iowa,85,SF80,01/29/2013,,,,,,,Citizenship
+Iowa,85,SF72,01/29/2013,,,,,,,Alien
+Iowa,85,SF70,01/29/2013,,,,,,,Foreign
+Iowa,85,SF166,02/11/2013,,,,,,,Visa
+Iowa,85,SF138,02/05/2013,,,,,,,Visa
+Iowa,85,SF136,02/05/2013,,,,,,,Visa
+Iowa,85,SF134,02/05/2013,,,,,,,Immigration
+Iowa,85,SF127,02/04/2013,,,,,,,Citizenship
+Iowa,85,SF297,03/04/2013,,,,03/25/2013,,,Migrant
+Iowa,85,SF283,02/28/2013,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,85,SF257,02/26/2013,,,,,,,Foreign
+Iowa,85,SF246,02/25/2013,,,,03/12/2013,,,Visa
+Iowa,85,SF230,02/20/2013,,,,04/09/2013,,,Foreign
+Iowa,85,SF399,03/11/2013,,,,,,,Immigration
+Iowa,85,SF398,03/11/2013,,,,03/20/2013,,,Foreign
+Iowa,85,SF382,03/11/2013,,,,,,,Foreign
+Iowa,85,SF375,03/11/2013,,,,,,,Alien
+Iowa,85,SF364,03/07/2013,,03/18/2013,,,,,Foreign
+Iowa,85,SF348,03/06/2013,,03/13/2013,,,,,Foreign
+Iowa,85,SF329,03/05/2013,,03/27/2013,,,,,Foreign
+Iowa,85,SF326,03/05/2013,,,,,,,"Alien, Foreign"
+Iowa,85,SF313,03/04/2013,,,,,,,Visa
+Iowa,85,SF309,03/04/2013,,,,03/12/2013,,,"Migrant, Foreign"
+Iowa,85,SF448,04/16/2013,,,,,,,Foreign
+Iowa,85,SF443,04/11/2013,,,,,,,Foreign
+Iowa,85,SF423,03/12/2013,,03/26/2013,,03/26/2013,,,Foreign
+Iowa,85,SF420,03/12/2013,,,,,,,Foreign
+Iowa,85,SF409,03/11/2013,,,,,,,Migrant
+Iowa,85,HSB95,,,,,,,,Immigration
+Iowa,85,HSB92,,,,,,,,Foreign
+Iowa,85,HSB89,,,,,,,,Visa
+Iowa,85,HSB83,,,,,,,,Foreign
+Iowa,85,HSB69,,,,,,,,Foreign
+Iowa,85,HSB66,,,,,,,,Foreign
+Iowa,85,HSB31,,,,,,,,Foreign
+Iowa,85,HSB23,,,,,,,,Foreign
+Iowa,85,HSB193,,,,,,,,"Alien, Foreign"
+Iowa,85,HSB161,,,,,,,,"Migrant, Foreign"
+Iowa,85,HSB160,,,,,,,,Foreign
+Iowa,85,HSB143,,,,,,,,Foreign
+Iowa,85,HSB132,,,,,,,,Migrant
+Iowa,85,HSB129,,,,,,,,Visa
+Iowa,85,HSB120,,,,,,,,Foreign
+Iowa,85,HSB113,,,,,,,,Foreign
+Iowa,85,HSB106,,,,,,,,Foreign
+Iowa,85,HSB233,,,,,,,,Foreign
+Iowa,85,HSB208,,,,,,,,Foreign
+Iowa,85,HSB500,,,,,,,,Foreign
+Iowa,85,HSB597,,,,,,,,Foreign
+Iowa,85,HSB577,,,,,,,,Foreign
+Iowa,85,HSB536,,,,,,,,Foreign
+Iowa,85,HSB535,,,,,,,,"Alien, Foreign"
+Iowa,85,HSB688,,,,,,,,Foreign
+Iowa,85,HSB683,,,,,,,,Alien
+Iowa,85,HSB679,,,,,,,,"Visa, Border"
+Iowa,85,HSB677,,,,,,,,Foreign
+Iowa,85,HSB649,,,,,,,,Migrant
+Iowa,85,HSB643,,,,,,,,"Alien, Foreign"
+Iowa,85,HSB642,,,,,,,,Foreign
+Iowa,85,HSB637,,,,,,,,Foreign
+Iowa,85,HSB631,,,,,,,,"Visa, Foreign"
+Iowa,85,HSB625,,,,,,,,Foreign
+Iowa,85,HSB618,,,,,,,,Visa
+Iowa,85,HSB610,,,,,,,,Foreign
+Iowa,86,HF75,01/21/2015,,,,,,,Citizenship
+Iowa,86,HF64,01/21/2015,,,,,,,Foreign
+Iowa,86,HF57,01/21/2015,,,,,,,Border
+Iowa,86,HF193,02/09/2015,,,,04/08/2015,,,Foreign
+Iowa,86,HF175,02/09/2015,,,,,,,"Immigration, Citizenship"
+Iowa,86,HF136,02/02/2015,,,,,,,Foreign
+Iowa,86,HF135,02/02/2015,,,,,,,Foreign
+Iowa,86,HF115,01/29/2015,,,,,,,Citizenship
+Iowa,86,HF293,02/17/2015,,,,,,,Foreign
+Iowa,86,HF246,02/12/2015,,,,03/24/2015,,,Foreign
+Iowa,86,HF230,02/11/2015,,,,,,,Foreign
+Iowa,86,HF380,02/24/2015,,,,,,,Visa
+Iowa,86,HF356,02/20/2015,,,,,,,Foreign
+Iowa,86,HF305,02/17/2015,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,86,HF495,03/04/2015,,,,,,,Immigration
+Iowa,86,HF454,03/02/2015,,,,04/21/2015,,,Foreign
+Iowa,86,HF430,03/02/2015,,,,,,,Border
+Iowa,86,HF590,03/09/2015,,,,,,,Border
+Iowa,86,HF551,03/09/2015,,,,03/17/2015,,,Border
+Iowa,86,HF542,03/09/2015,,,,05/20/2015,,,Foreign
+Iowa,86,HF538,03/06/2015,,,,04/15/2015,,,Foreign
+Iowa,86,HF527,03/05/2015,,03/10/2015,,,,,"Immigration, Citizenship, Alien"
+Iowa,86,HF524,03/05/2015,,,,04/14/2015,,,Citizenship
+Iowa,86,HF516,03/05/2015,,,,,,,Border
+Iowa,86,SF37,01/15/2015,,,,,,,Border
+Iowa,86,SF183,02/09/2015,,,,,,,Foreign
+Iowa,86,SF179,02/09/2015,,03/17/2015,,,,,Foreign
+Iowa,86,SF114,01/29/2015,,,,,,,Visa
+Iowa,86,SF298,02/24/2015,,,,03/23/2015,,,"Citizenship, Alien, Visa, Foreign"
+Iowa,86,SF273,02/19/2015,,03/09/2015,,,,,Foreign
+Iowa,86,SF271,02/19/2015,,03/12/2015,,,,,Foreign
+Iowa,86,SF237,02/16/2015,,,,,,,Foreign
+Iowa,86,SF231,02/12/2015,,,,,,,"Immigration, Alien"
+Iowa,86,SF207,02/10/2015,,,,,,,Border
+Iowa,86,SF397,03/05/2015,,03/24/2015,,,,,Foreign
+Iowa,86,SF389,03/04/2015,,,,,,,"Citizenship, Alien"
+Iowa,86,SF387,03/04/2015,,,,,,,Foreign
+Iowa,86,SF373,03/03/2015,,,,03/23/2015,,,"Visa, Border, Foreign"
+Iowa,86,SF372,03/03/2015,,,,,,,Border
+Iowa,86,SF346,03/02/2015,,03/25/2015,,,,,Foreign
+Iowa,86,SF332,02/26/2015,,03/19/2015,,03/19/2015,,,"Immigration, Citizenship"
+Iowa,86,SF327,02/26/2015,,,,,,,Border
+Iowa,86,SF490,04/15/2015,,,,,,,Visa
+Iowa,86,SF481,03/25/2015,,,,,,,Foreign
+Iowa,86,SF425,03/09/2015,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,86,SF417,03/05/2015,,,,,,,Citizenship
+Iowa,86,HSB85,,,,,,,,Foreign
+Iowa,86,HSB83,,,,,,,,Foreign
+Iowa,86,HSB72,,,,,,,,Foreign
+Iowa,86,HSB66,,,,,,,,Foreign
+Iowa,86,HSB62,,,,,,,,Immigration
+Iowa,86,HSB52,,,,,,,,Foreign
+Iowa,86,HSB51,,,,,,,,Foreign
+Iowa,86,HSB20,,,,,,,,Foreign
+Iowa,86,HSB193,,,,,,,,"Visa, Border, Foreign"
+Iowa,86,HSB160,,,,,,,,Border
+Iowa,86,HSB158,,,,,,,,Border
+Iowa,86,HSB151,,,,,,,,"Citizenship, Alien, Visa, Foreign"
+Iowa,86,HSB141,,,,,,,,Foreign
+Iowa,86,HSB140,,,,,,,,Foreign
+Iowa,86,HSB139,,,,,,,,Foreign
+Iowa,86,HSB126,,,,,,,,Foreign
+Iowa,86,HSB105,,,,,,,,Citizenship
+Iowa,86,HSB247,,,,,,,,Migrant
+Iowa,86,HSB222,,,,,,,,Foreign
+Iowa,86,HSB201,,,,,,,,"Immigration, Citizenship, Alien"
+Iowa,86,HSB598,,,,,,,,Foreign
+Iowa,86,HSB596,,,,,,,,Foreign
+Iowa,86,HSB593,,,,,,,,Foreign
+Iowa,86,HSB561,,,,,,,,Foreign
+Iowa,86,HSB558,,,,,,,,"Immigration, Citizenship"
+Iowa,86,HSB557,,,,,,,,Visa
+Iowa,86,HSB554,,,,,,,,Foreign
+Iowa,86,HSB553,,,,,,,,Alien
+Iowa,86,HSB547,,,,,,,,Alien
+Iowa,86,HSB525,,,,,,,,Foreign
+Iowa,86,HSB632,,,,,,,,Foreign
+Iowa,86,HSB620,,,,,,,,Foreign
+Iowa,86,HSB616,,,,,,,,"Citizenship, Alien, Border, Foreign"
+Iowa,86,HSB615,,,,,,,,Foreign
+Iowa,86,HSB614,,,,,,,,Foreign
+Iowa,86,HSB608,,,,,,,,Visa
+Iowa,87,HF79,01/23/2017,,,,,,,Citizenship
+Iowa,87,HF65,01/23/2017,,,,,,,Foreign
+Iowa,87,HF62,01/23/2017,,,,,,,Foreign
+Iowa,87,HF27,01/18/2017,,,,,,,Citizenship
+Iowa,87,HF22,01/17/2017,,,,,,,Immigration
+Iowa,87,HF194,02/01/2017,,,,,,,Citizenship
+Iowa,87,HF192,02/01/2017,,,,,,,"Citizenship, Foreign"
+Iowa,87,HF164,01/31/2017,,,,02/19/2018,,,Border
+Iowa,87,HF127,01/26/2017,,,,,,,Foreign
+Iowa,87,HF126,01/26/2017,,,,,,,Visa
+Iowa,87,HF294,02/10/2017,,,,,,,Visa
+Iowa,87,HF287,02/09/2017,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,87,HF265,02/09/2017,,,,,,,"Immigration, Citizenship"
+Iowa,87,HF247,02/07/2017,,,,,,,Citizenship
+Iowa,87,HF223,02/06/2017,,,,,,,Foreign
+Iowa,87,HF220,02/06/2017,,,,,,,"Immigration, Citizenship"
+Iowa,87,HF205,02/06/2017,,,,,,,"Immigration, Alien"
+Iowa,87,HF394,02/21/2017,,,,04/04/2017,,,Foreign
+Iowa,87,HF380,02/21/2017,,,,04/13/2017,,,Border
+Iowa,87,HF378,02/21/2017,,,,,,,Foreign
+Iowa,87,HF375,02/20/2017,,,,04/19/2017,,,Foreign
+Iowa,87,HF365,02/16/2017,,,,,,,Citizenship
+Iowa,87,HF336,02/15/2017,,,,,,,Visa
+Iowa,87,HF479,02/28/2017,,,,,,,Immigration
+Iowa,87,HF476,02/28/2017,,,,03/13/2017,,,Foreign
+Iowa,87,HF435,02/23/2017,,,,,,,Visa
+Iowa,87,HF416,02/23/2017,,,,,,,Visa
+Iowa,87,HF538,03/07/2017,,,,04/20/2017,,,Border
+Iowa,87,HF525,03/06/2017,,,,03/13/2017,,,Visa
+Iowa,87,HF502,03/02/2017,,,,,,,Foreign
+Iowa,87,HF654,04/18/2017,,,,04/19/2017,,,Alien
+Iowa,87,HF641,04/14/2017,,,,04/18/2017,,,Foreign
+Iowa,87,HF638,04/13/2017,,,,,,,Foreign
+Iowa,87,HF623,03/31/2017,,,,,,,Migrant
+Iowa,87,HF615,03/27/2017,,,,,,,Foreign
+Iowa,87,HF612,03/27/2017,,,,04/20/2017,,,Border
+Iowa,87,SF91,01/17/2017,,,,,,,Foreign
+Iowa,87,SF64,01/11/2017,,,,,,,"Immigration, Citizenship"
+Iowa,87,SF47,01/10/2017,,,,,,,Foreign
+Iowa,87,SF38,01/10/2017,,,,,,,Foreign
+Iowa,87,SF24,01/10/2017,,,,,,,Border
+Iowa,87,SF22,01/10/2017,,,,,,,Foreign
+Iowa,87,SF194,02/02/2017,,,,,,,Foreign
+Iowa,87,SF172,01/31/2017,,,,,,,"Immigration, Alien"
+Iowa,87,SF149,01/26/2017,,,,,,,Visa
+Iowa,87,SF145,01/26/2017,,,,,,,Citizenship
+Iowa,87,SF122,01/24/2017,,,,,,,Immigration
+Iowa,87,SF110,01/19/2017,,,,,,,Foreign
+Iowa,87,SF245,02/14/2017,,,,,,,Foreign
+Iowa,87,SF231,02/13/2017,,,,03/08/2017,,,Alien
+Iowa,87,SF221,02/09/2017,,,,,,,Foreign
+Iowa,87,SF384,03/01/2017,,,,03/23/2017,,,Visa
+Iowa,87,SF381,02/28/2017,,,,,,,Citizenship
+Iowa,87,SF348,02/23/2017,,,,,,,Border
+Iowa,87,SF481,03/07/2017,,04/04/2018,04/03/2018,04/03/2018,Y,04/10/2018,"Immigration, Citizenship, Alien, Migrant"
+Iowa,87,SF412,03/02/2017,,,,,,,"Immigration, Alien"
+Iowa,87,HSB99,,,,,,,,Border
+Iowa,87,HSB98,,,,,,,,Foreign
+Iowa,87,HSB67,,,,,,,,"Immigration, Citizenship"
+Iowa,87,HSB42,,,,,,,,Citizenship
+Iowa,87,HSB25,,,,,,,,Foreign
+Iowa,87,HSB22,,,,,,,,Alien
+Iowa,87,HSB180,,,,,,,,Foreign
+Iowa,87,HSB174,,,,,,,,Alien
+Iowa,87,HSB151,,,,,,,,Foreign
+Iowa,87,HSB138,,,,,,,,Alien
+Iowa,87,HSB135,,,,,,,,Border
+Iowa,87,HSB128,,,,,,,,Visa
+Iowa,87,HSB125,,,,,,,,"Citizenship, Foreign"
+Iowa,87,HSB118,,,,,,,,Visa
+Iowa,87,HSB104,,,,,,,,Foreign
+Iowa,87,HSB205,,,,,,,,Alien
+Iowa,87,HSB203,,,,,,,,Foreign
+Iowa,87,HSB595,,,,,,,,Border
+Iowa,87,HSB590,,,,,,,,Foreign
+Iowa,87,HSB582,,,,,,,,Foreign
+Iowa,87,HSB573,,,,,,,,"Immigration, Citizenship"
+Iowa,87,HSB571,,,,,,,,Visa
+Iowa,87,HSB561,,,,,,,,Foreign
+Iowa,87,HSB538,,,,,,,,Foreign
+Iowa,87,HSB700,,,,,,,,"Alien, Foreign"
+Iowa,87,HSB699,,,,,,,,Foreign
+Iowa,87,HSB692,,,,,,,,Alien
+Iowa,87,HSB691,,,,,,,,Foreign
+Iowa,87,HSB690,,,,,,,,Foreign
+Iowa,87,HSB671,,,,,,,,"Visa, Foreign"
+Iowa,87,HSB666,,,,,,,,Immigration
+Iowa,87,HSB662,,,,,,,,"Alien, Foreign"
+Iowa,87,HSB651,,,,,,,,Foreign
+Iowa,87,HSB643,,,,,,,,Alien
+Iowa,87,HSB631,,,,,,,,Foreign
+Iowa,87,HSB629,,,,,,,,Foreign
+Iowa,87,HSB621,,,,,,,,"Alien, Visa"
+Iowa,87,HSB609,,,,,,,,Foreign
+Iowa,87,HSB604,,,,,,,,Foreign
+Iowa,88,HF96,01/24/2019,,,,,,,"Immigration, Citizenship, Border"
+Iowa,88,HF85,01/24/2019,,,,,,,Citizenship
+Iowa,88,HF84,01/24/2019,,,,,,,Citizenship
+Iowa,88,HF80,01/24/2019,,,,,,,Citizenship
+Iowa,88,HF72,01/23/2019,,,,,,,Citizenship
+Iowa,88,HF64,01/23/2019,,,,,,,"Citizenship, Foreign"
+Iowa,88,HF52,01/22/2019,,,,,,,Immigration
+Iowa,88,HF36,01/17/2019,,,,,,,Foreign
+Iowa,88,HF189,01/31/2019,,,,,,,Border
+Iowa,88,HF163,01/30/2019,,,,,,,"Citizenship, Foreign"
+Iowa,88,HF149,01/28/2019,,,,,,,Foreign
+Iowa,88,HF101,01/24/2019,,,,,,,Citizenship
+Iowa,88,HF229,02/05/2019,,,,,,,Foreign
+Iowa,88,HF214,02/04/2019,,,,,,,Foreign
+Iowa,88,HF213,02/04/2019,,,,,,,Citizenship
+Iowa,88,HF208,02/04/2019,,,,,,,Visa
+Iowa,88,HF396,02/14/2019,,,,,,,Border
+Iowa,88,HF389,02/14/2019,,03/12/2019,04/18/2019,,Y,05/03/2019,Foreign
+Iowa,88,HF350,02/12/2019,,,,,,,Visa
+Iowa,88,HF322,02/08/2019,,,,04/18/2019,,,"Citizenship, Foreign"
+Iowa,88,HF314,02/08/2019,,,,,,,Foreign
+Iowa,88,HF313,02/08/2019,,,,,,,Border
+Iowa,88,HF312,02/08/2019,,,,,,,Foreign
+Iowa,88,HF310,02/07/2019,,06/03/2020,03/03/2020,,Y,06/29/2020,Foreign
+Iowa,88,HF498,02/21/2019,,,,,,,Foreign
+Iowa,88,HF472,02/21/2019,,,,,,,"Citizenship, Foreign"
+Iowa,88,HF600,03/04/2019,,,,04/03/2019,,,"Visa, Foreign"
+Iowa,88,HF581,03/04/2019,,,,,,,Migrant
+Iowa,88,HF568,02/28/2019,,,,04/17/2019,,,"Citizenship, Foreign"
+Iowa,88,HF542,02/27/2019,,,,,,,Citizenship
+Iowa,88,HF536,02/26/2019,,,,,,,"Alien, Foreign"
+Iowa,88,HF530,02/26/2019,,,,,,,Visa
+Iowa,88,HF525,02/26/2019,,,,,,,Foreign
+Iowa,88,HF523,02/26/2019,,,,,,,Citizenship
+Iowa,88,HF511,02/25/2019,,,,04/23/2019,,,Foreign
+Iowa,88,HF679,03/11/2019,,04/15/2019,04/09/2019,,Y,05/01/2019,"Alien, Visa, Foreign"
+Iowa,88,HF671,03/08/2019,,,,,,,Foreign
+Iowa,88,HF670,03/08/2019,,,,04/11/2019,,,Foreign
+Iowa,88,HF667,03/08/2019,,,,03/26/2019,,,"Alien, Visa, Foreign"
+Iowa,88,HF651,03/06/2019,,,,04/03/2019,,,"Alien, Foreign"
+Iowa,88,HF645,03/06/2019,,,,,,,Foreign
+Iowa,88,HF619,03/05/2019,,,,,,,Visa
+Iowa,88,HF781,04/18/2019,,,,04/23/2019,,,Foreign
+Iowa,88,HF777,04/18/2019,,,,04/24/2019,,,Foreign
+Iowa,88,HF754,03/29/2019,,,,04/23/2019,,,Foreign
+Iowa,88,HF751,03/27/2019,,,,,,,Alien
+Iowa,88,HF743,03/18/2019,,04/25/2019,04/23/2019,,Y,05/08/2019,Foreign
+Iowa,88,HF739,03/13/2019,,,,04/23/2019,,,Foreign
+Iowa,88,HF738,03/13/2019,,,,,,,Foreign
+Iowa,88,HF736,03/13/2019,,,,04/17/2019,,,Foreign
+Iowa,88,HF723,03/12/2019,,,,04/03/2019,,,Foreign
+Iowa,88,HF722,03/12/2019,,,,,,,Visa
+Iowa,88,SF98,01/24/2019,,,,,,,Visa
+Iowa,88,SF65,01/16/2019,,,,,,,Citizenship
+Iowa,88,SF62,01/16/2019,,,,,,,Foreign
+Iowa,88,SF56,01/16/2019,,,,,,,Citizenship
+Iowa,88,SF45,01/15/2019,,,,,,,Border
+Iowa,88,SF11,01/15/2019,,,,,,,Visa
+Iowa,88,SF193,02/05/2019,,,,,,,Foreign
+Iowa,88,SF184,02/05/2019,,,,,,,Foreign
+Iowa,88,SF182,02/05/2019,,,,,,,Foreign
+Iowa,88,SF142,01/29/2019,,,,,,,"Citizenship, Foreign"
+Iowa,88,SF137,01/29/2019,,,,,,,Foreign
+Iowa,88,SF119,01/28/2019,,,,,,,Undocumented
+Iowa,88,SF281,02/18/2019,,,,,,,Foreign
+Iowa,88,SF259,02/13/2019,,,,,,,Citizenship
+Iowa,88,SF243,02/12/2019,,,,,,,"Immigration, Alien"
+Iowa,88,SF209,02/07/2019,,03/11/2019,,,,,"Immigration, Citizenship"
+Iowa,88,SF390,02/26/2019,,,,,,,"Citizenship, Foreign"
+Iowa,88,SF379,02/26/2019,,04/09/2019,04/18/2019,,Y,05/01/2019,"Citizenship, Foreign"
+Iowa,88,SF334,02/20/2019,,04/01/2019,,03/28/2019,,,Immigration
+Iowa,88,SF333,02/20/2019,,03/28/2019,04/03/2019,,Y,04/15/2019,"Visa, Foreign"
+Iowa,88,SF315,02/19/2019,,,,,,,Alien
+Iowa,88,SF475,03/05/2019,,04/01/2019,04/17/2019,,Y,04/29/2019,Foreign
+Iowa,88,SF406,02/27/2019,,,,,,,Alien
+Iowa,88,SF599,,,04/24/2019,04/23/2019,,Y,05/13/2019,Foreign
+Iowa,88,SF579,03/11/2019,,,,,,,Alien
+Iowa,88,SF571,03/11/2019,,03/10/2020,,,,,Visa
+Iowa,88,SF569,03/11/2019,,03/26/2019,04/03/2019,,Y,04/15/2019,Foreign
+Iowa,88,SF558,03/11/2019,,03/19/2019,04/03/2019,,Y,04/09/2019,"Alien, Foreign"
+Iowa,88,SF556,03/11/2019,,03/20/2019,03/26/2019,,Y,03/29/2019,"Visa, Foreign"
+Iowa,88,SF546,03/07/2019,,,,04/09/2019,,,"Alien, Visa, Foreign"
+Iowa,88,SF543,03/07/2019,,,,,,,Foreign
+Iowa,88,SF528,03/07/2019,,03/28/2019,04/11/2019,,Y,05/01/2019,Foreign
+Iowa,88,SF516,03/06/2019,,04/02/2019,,04/02/2019,,,"Immigration, Alien"
+Iowa,88,SF505,03/06/2019,,03/21/2019,04/17/2019,,Y,05/10/2019,Foreign
+Iowa,88,SF629,04/17/2019,,04/23/2019,04/24/2019,,Y,05/20/2019,Foreign
+Iowa,88,SF623,04/15/2019,,,,04/18/2019,,,Foreign
+Iowa,88,SF609,04/01/2019,,04/22/2019,04/23/2019,04/16/2019,Y,05/13/2019,Foreign
+Iowa,88,SF608,03/28/2019,,04/24/2019,04/23/2019,04/15/2019,Y,05/17/2019,Alien
+Iowa,88,SF605,03/27/2019,,04/22/2019,04/23/2019,,Y,05/10/2019,Foreign
+Iowa,88,HSB94,,,,,,,,"Citizenship, Foreign"
+Iowa,88,HSB70,,,,,,,,Foreign
+Iowa,88,HSB69,,,,,,,,Foreign
+Iowa,88,HSB64,,,,,,,,Foreign
+Iowa,88,HSB47,,,,,,,,Foreign
+Iowa,88,HSB44,,,,,,,,Foreign
+Iowa,88,HSB9,,,,,,,,"Citizenship, Foreign"
+Iowa,88,HSB195,,,,,,,,Foreign
+Iowa,88,HSB187,,,,,,,,"Alien, Foreign"
+Iowa,88,HSB186,,,,,,,,Foreign
+Iowa,88,HSB167,,,,,,,,Foreign
+Iowa,88,HSB162,,,,,,,,Visa
+Iowa,88,HSB138,,,,,,,,Foreign
+Iowa,88,HSB136,,,,,,,,"Visa, Foreign"
+Iowa,88,HSB129,,,,,,,,"Immigration, Citizenship"
+Iowa,88,HSB256,,,,,,,,Foreign
+Iowa,88,HSB227,,,,,,,,Foreign
+Iowa,88,HSB226,,,,,,,,Foreign
+Iowa,88,HSB219,,,,,,,,"Alien, Visa, Foreign"
+Iowa,88,HSB213,,,,,,,,Foreign
+Iowa,88,HSB209,,,,,,,,Foreign
+Iowa,88,HSB203,,,,,,,,"Alien, Visa, Foreign"
+Iowa,88,HSB578,,,,,,,,"Visa, Foreign"
+Iowa,88,HSB572,,,,,,,,Foreign
+Iowa,88,HSB563,,,,,,,,Foreign
+Iowa,88,HSB544,,,,,,,,Alien
+Iowa,88,HSB543,,,,,,,,Foreign
+Iowa,88,HSB529,,,,,,,,Foreign
+Iowa,88,HSB696,,,,,,,,Alien
+Iowa,88,HSB692,,,,,,,,"Visa, Border, Foreign"
+Iowa,88,HSB691,,,,,,,,Foreign
+Iowa,88,HSB684,,,,,,,,"Border, Foreign"
+Iowa,88,HSB683,,,,,,,,Foreign
+Iowa,88,HSB676,,,,,,,,"Border, Foreign"
+Iowa,88,HSB665,,,,,,,,Foreign
+Iowa,88,HSB653,,,,,,,,Border
+Iowa,88,HSB647,,,,,,,,"Citizenship, Foreign"
+Iowa,88,HSB646,,,,,,,,Foreign
+Iowa,88,HSB623,,,,,,,,Foreign
+Iowa,88,HSB708,,,,,,,,Foreign
+Iowa,88,HSB706,,,,,,,,Foreign
+Iowa,89,HF85,01/15/2021,,,,,,,Foreign
+Iowa,89,HF55,01/14/2021,,,,,,,"Immigration, Citizenship, Border"
+Iowa,89,HF44,01/12/2021,,,,,,,Citizenship
+Iowa,89,HF186,01/22/2021,,,,,,,"Citizenship, Alien, Visa"
+Iowa,89,HF178,01/22/2021,,,,,,,"Citizenship, Foreign"
+Iowa,89,HF173,01/22/2021,,,,,,,Foreign
+Iowa,89,HF148,01/21/2021,,,,,,,Foreign
+Iowa,89,HF138,01/21/2021,,,,,,,Citizenship
+Iowa,89,HF136,01/21/2021,,,,,,,Citizenship
+Iowa,89,HF295,01/28/2021,,,,02/10/2021,,,Visa
+Iowa,89,HF264,01/28/2021,,,,,,,Foreign
+Iowa,89,HF252,01/27/2021,,,,,,,Foreign
+Iowa,89,HF239,01/27/2021,,,,,,,Border
+Iowa,89,HF226,01/27/2021,,,,,,,Citizenship
+Iowa,89,HF211,01/25/2021,,,,,,,Migrant
+Iowa,89,HF202,01/25/2021,,,,,,,Visa
+Iowa,89,HF385,02/04/2021,,02/17/2021,,,,,Foreign
+Iowa,89,HF376,02/04/2021,,,,,,,Migrant
+Iowa,89,HF375,02/04/2021,,,,03/09/2021,,,Foreign
+Iowa,89,HF358,02/02/2021,,,,,,,Foreign
+Iowa,89,HF355,02/02/2021,,,,,,,Visa
+Iowa,89,HF353,02/02/2021,,,,,,,Foreign
+Iowa,89,HF341,02/02/2021,,,,,,,Foreign
+Iowa,89,HF482,02/11/2021,,,,03/29/2021,,,Border
+Iowa,89,HF476,02/10/2021,,,,,,,Immigration
+Iowa,89,HF466,02/10/2021,,,,,,,Citizenship
+Iowa,89,HF452,02/09/2021,,03/08/2021,04/28/2021,03/08/2021,Y,05/20/2021,"Immigration, Citizenship"
+Iowa,89,HF445,02/09/2021,,,,03/09/2021,,,Foreign
+Iowa,89,HF403,02/08/2021,,,,,,,Citizenship
+Iowa,89,HF518,02/15/2021,,,,,,,"Border, Foreign"
+Iowa,89,HF513,02/15/2021,,02/23/2021,05/19/2021,,Y,06/08/2021,Foreign
+Iowa,89,HF502,02/15/2021,,,,03/24/2021,,,Foreign
+Iowa,89,HF699,02/25/2021,,03/08/2021,04/07/2021,,Y,04/30/2021,Foreign
+Iowa,89,HF681,02/24/2021,,,,04/13/2021,,,Foreign
+Iowa,89,HF678,02/23/2021,,,,,,,Citizenship
+Iowa,89,HF666,02/23/2021,,,,,,,Border
+Iowa,89,HF653,02/23/2021,,03/10/2021,,,,,Border
+Iowa,89,HF651,02/23/2021,,,,,,,Foreign
+Iowa,89,HF644,02/23/2021,,05/18/2021,05/17/2021,,Y,06/08/2021,Foreign
+Iowa,89,HF636,02/23/2021,,,,,,,Alien
+Iowa,89,HF799,03/08/2021,,,,03/29/2021,,,Foreign
+Iowa,89,HF752,03/05/2021,,,,,,,Foreign
+Iowa,89,HF740,03/03/2021,,,,,,,Immigration
+Iowa,89,HF739,03/03/2021,,03/09/2021,04/07/2021,,Y,04/30/2021,"Alien, Visa, Foreign"
+Iowa,89,HF719,03/03/2021,,03/09/2021,04/07/2021,,Y,04/30/2021,Foreign
+Iowa,89,HF707,03/01/2021,,03/09/2021,04/13/2021,,Y,04/30/2021,Foreign
+Iowa,89,HF704,03/01/2021,,,,,,,Visa
+Iowa,89,HF893,05/06/2021,,,,05/18/2021,,,Foreign
+Iowa,89,HF878,04/21/2021,,,,,,,Immigration
+Iowa,89,HF871,04/14/2021,,05/18/2021,05/18/2021,05/06/2021,Y,06/08/2021,Alien
+Iowa,89,HF870,04/13/2021,,,,,,,"Border, Foreign"
+Iowa,89,HF860,04/07/2021,,05/18/2021,05/17/2021,05/06/2021,Y,06/02/2021,Foreign
+Iowa,89,HF858,04/05/2021,,,,,,,Visa
+Iowa,89,HF851,03/23/2021,,,,,,,Visa
+Iowa,89,HF847,03/22/2021,,05/19/2021,05/19/2021,03/25/2021,Y,05/20/2021,Foreign
+Iowa,89,HF844,03/17/2021,,04/13/2021,05/05/2021,,Y,06/08/2021,Foreign
+Iowa,89,HF838,03/12/2021,,05/19/2021,05/19/2021,05/19/2021,Y,06/16/2021,Foreign
+Iowa,89,HF836,03/11/2021,,,,,,,"Visa, Foreign"
+Iowa,89,HF827,03/11/2021,,,,03/29/2021,,,Border
+Iowa,89,HF813,03/08/2021,,03/24/2021,04/28/2021,03/24/2021,Y,05/19/2021,Foreign
+Iowa,89,HF812,03/08/2021,,,,,,,"Visa, Foreign"
+Iowa,89,HF810,03/08/2021,,,,,,,"Border, Foreign"
+Iowa,89,HF808,03/08/2021,,,,03/25/2021,,,Foreign
+Iowa,89,HF803,03/08/2021,,04/04/2022,03/29/2022,04/04/2022,Y,05/17/2022,Visa
+Iowa,89,SF100,01/19/2021,,,,,,,Alien
+Iowa,89,SF84,01/14/2021,,,,,,,"Immigration, Alien"
+Iowa,89,SF78,01/13/2021,,,,,,,Foreign
+Iowa,89,SF62,01/12/2021,,,,,,,Citizenship
+Iowa,89,SF31,01/11/2021,,,,,,,"Visa, Foreign"
+Iowa,89,SF159,01/25/2021,,01/28/2021,,,,,Foreign
+Iowa,89,SF149,01/25/2021,,,,,,,Foreign
+Iowa,89,SF101,01/19/2021,,,,,,,Foreign
+Iowa,89,SF266,02/04/2021,,,,,,,Foreign
+Iowa,89,SF246,02/03/2021,,,,,,,"Immigration, Citizenship"
+Iowa,89,SF240,02/03/2021,,02/09/2021,02/10/2021,,Y,03/08/2021,Visa
+Iowa,89,SF202,02/02/2021,,,,,,,Foreign
+Iowa,89,SF389,02/17/2021,,02/23/2021,,,,,"Immigration, Citizenship"
+Iowa,89,SF388,02/17/2021,,,,04/06/2021,,,"Immigration, Citizenship"
+Iowa,89,SF385,02/17/2021,,,,04/07/2021,,,Foreign
+Iowa,89,SF375,02/16/2021,,,,,,,Foreign
+Iowa,89,SF359,02/15/2021,,,,,,,Border
+Iowa,89,SF348,02/11/2021,,03/08/2021,03/30/2022,,,,"Visa, Foreign"
+Iowa,89,SF346,02/11/2021,,,,,,,Foreign
+Iowa,89,SF339,02/11/2021,,,,,,,"Immigration, Alien"
+Iowa,89,SF305,02/10/2021,,,,,,,Migrant
+Iowa,89,SF303,02/10/2021,,,,,,,Foreign
+Iowa,89,SF499,03/01/2021,,,,,,,Foreign
+Iowa,89,SF472,02/25/2021,,,,,,,Foreign
+Iowa,89,SF468,02/25/2021,,03/17/2021,,,,,Foreign
+Iowa,89,SF465,02/25/2021,,,,,,,Foreign
+Iowa,89,SF415,02/18/2021,,,,05/19/2021,,,Foreign
+Iowa,89,SF414,02/18/2021,,,,,,,"Alien, Foreign"
+Iowa,89,SF598,04/13/2021,,,,05/17/2021,,,Foreign
+Iowa,89,SF595,04/07/2021,,,,05/18/2021,,,Alien
+Iowa,89,SF580,03/16/2021,,03/17/2021,,,,,Foreign
+Iowa,89,SF579,03/15/2021,,,,05/05/2021,,,Foreign
+Iowa,89,SF578,03/11/2021,,04/28/2021,05/07/2021,04/28/2021,Y,06/08/2021,"Border, Foreign"
+Iowa,89,SF576,03/10/2021,,03/17/2021,,,,,Foreign
+Iowa,89,SF558,03/04/2021,,,,,,,Foreign
+Iowa,89,SF553,03/04/2021,,,,04/07/2021,,,Foreign
+Iowa,89,SF541,03/04/2021,,05/05/2021,03/29/2021,,Y,05/20/2021,Foreign
+Iowa,89,SF522,03/02/2021,,04/05/2022,03/23/2022,03/23/2022,Y,06/15/2022,Foreign
+Iowa,89,SF521,03/02/2021,,03/09/2021,,,,,Migrant
+Iowa,89,SF520,03/02/2021,,,,04/07/2021,,,"Alien, Visa, Foreign"
+Iowa,89,SF513,03/02/2021,,03/09/2022,04/05/2022,,Y,05/23/2022,Border
+Iowa,89,SF621,10/28/2021,,10/28/2021,10/28/2021,,Y,11/04/2021,Alien
+Iowa,89,SF609,04/22/2021,,,,,,,Foreign
+Iowa,89,SF606,04/21/2021,,,,05/17/2021,,,"Immigration, Citizenship"
+Iowa,89,HSB95,01/20/2021,,,,,,,Border
+Iowa,89,HSB70,01/19/2021,,,,,,,Foreign
+Iowa,89,HSB39,01/13/2021,,,,,,,Foreign
+Iowa,89,HSB38,01/13/2021,,,,,,,"Visa, Foreign"
+Iowa,89,HSB37,01/13/2021,,,,,,,Visa
+Iowa,89,HSB34,01/13/2021,,,,,,,"Immigration, Citizenship"
+Iowa,89,HSB27,01/13/2021,,,,,,,"Visa, Foreign"
+Iowa,89,HSB198,02/10/2021,,,,,,,Foreign
+Iowa,89,HSB174,02/02/2021,,,,,,,Foreign
+Iowa,89,HSB161,01/28/2021,,,,,,,Foreign
+Iowa,89,HSB128,01/25/2021,,,,,,,Border
+Iowa,89,HSB119,01/21/2021,,,,,,,Foreign
+Iowa,89,HSB109,01/21/2021,,,,,,,Foreign
+Iowa,89,HSB278,05/05/2021,,,,,,,Foreign
+Iowa,89,HSB262,03/02/2021,,,,,,,"Border, Foreign"
+Iowa,89,HSB255,02/25/2021,,,,,,,Visa
+Iowa,89,HSB242,02/23/2021,,,,,,,Foreign
+Iowa,89,HSB240,02/23/2021,,,,,,,Foreign
+Iowa,89,HSB236,02/23/2021,,,,,,,"Alien, Visa, Foreign"
+Iowa,89,HSB227,02/18/2021,,,,,,,Foreign
+Iowa,89,HSB212,02/15/2021,,,,,,,Foreign
+Iowa,89,HSB209,02/15/2021,,,,,,,Foreign
+Iowa,89,HSB204,02/15/2021,,,,,,,"Visa, Foreign"
+Iowa,89,HSB587,01/20/2022,,,,,,,Foreign
+Iowa,89,HSB552,01/19/2022,,,,,,,"Visa, Foreign"
+Iowa,89,HSB547,01/18/2022,,,,,,,Foreign
+Iowa,89,HSB507,01/11/2022,,,,,,,"Immigration, Citizenship"
+Iowa,89,HSB680,02/08/2022,,,,,,,"Visa, Foreign"
+Iowa,89,HSB679,02/08/2022,,,,,,,Foreign
+Iowa,89,HSB678,02/08/2022,,,,,,,Foreign
+Iowa,89,HSB674,02/08/2022,,,,,,,"Immigration, Citizenship"
+Iowa,89,HSB672,02/08/2022,,,,,,,"Immigration, Citizenship"
+Iowa,89,HSB670,02/04/2022,,,,,,,Foreign
+Iowa,89,HSB662,02/03/2022,,,,,,,Foreign
+Iowa,89,HSB635,02/01/2022,,,,,,,"Immigration, Alien"
+Iowa,89,HSB630,01/28/2022,,,,,,,Foreign
+Iowa,89,HSB621,01/26/2022,,,,,,,Border
+Iowa,89,HSB607,01/25/2022,,,,,,,Citizenship
+Iowa,89,HSB604,01/25/2022,,,,,,,Foreign
+Iowa,89,HSB602,01/25/2022,,,,,,,Foreign
+Iowa,89,HSB724,02/16/2022,,,,,,,Alien
+Iowa,89,HSB715,02/14/2022,,,,,,,"Alien, Foreign"
+Iowa,89,HSB707,02/10/2022,,,,,,,Foreign
+Iowa,89,HSB706,02/10/2022,,,,,,,"Immigration, Citizenship"
+Iowa,90,HF70,01/20/2023,,,,,,,Border
+Iowa,90,HF55,01/17/2023,,,,04/12/2023,,,"Border, Foreign"
+Iowa,90,HF40,01/12/2023,,,,,,,Foreign
+Iowa,90,HF24,01/12/2023,,,,,,,Foreign
+Iowa,90,HF7,01/11/2023,,,,,,,Citizenship
+Iowa,90,HF5,01/11/2023,,,,,,,"Immigration, Citizenship"
+Iowa,90,HF182,02/01/2023,,,,,,,Citizenship
+Iowa,90,HF181,02/01/2023,,,,,,,Foreign
+Iowa,90,HF147,01/30/2023,,,,,,,"Border, Foreign"
+Iowa,90,HF286,02/14/2023,,,,,,,"Immigration, Alien, Migrant, Foreign"
+Iowa,90,HF271,02/13/2023,,02/22/2023,04/19/2023,,Y,04/28/2023,"Alien, Foreign"
+Iowa,90,HF216,02/07/2023,,02/15/2023,05/02/2023,,Y,06/01/2023,Foreign
+Iowa,90,HF211,02/07/2023,,,,,,,"Alien, Foreign"
+Iowa,90,HF370,02/20/2023,,03/16/2023,,03/16/2023,,,Visa
+Iowa,90,HF363,02/20/2023,,,,,,,Border
+Iowa,90,HF346,02/20/2023,,,,03/15/2023,,,"Immigration, Citizenship"
+Iowa,90,HF344,02/20/2023,,,,04/12/2023,,,"Border, Foreign"
+Iowa,90,HF483,02/28/2023,,,,,,,Citizenship
+Iowa,90,HF477,02/27/2023,,,,,,,Border
+Iowa,90,HF444,02/24/2023,,,,,,,Citizenship
+Iowa,90,HF442,02/24/2023,,,,,,,Border
+Iowa,90,HF431,02/24/2023,,,,04/11/2023,,,Foreign
+Iowa,90,HF581,03/02/2023,,,,,,,Border
+Iowa,90,HF573,03/02/2023,,03/09/2023,04/19/2023,,Y,05/03/2023,"Visa, Foreign"
+Iowa,90,HF567,03/02/2023,,03/09/2023,04/19/2023,,Y,05/03/2023,"Citizenship, Visa, Foreign"
+Iowa,90,HF558,03/02/2023,,,,,,,Border
+Iowa,90,HF551,03/02/2023,,,,,,,Foreign
+Iowa,90,HF547,03/02/2023,,03/21/2023,,,,,Foreign
+Iowa,90,HF542,03/01/2023,,,,,,,"Alien, Foreign"
+Iowa,90,HF523,03/01/2023,,,,,,,Citizenship
+Iowa,90,HF522,03/01/2023,,,,,,,Foreign
+Iowa,90,HF510,02/28/2023,,,,,,,"Alien, Foreign"
+Iowa,90,HF508,02/28/2023,,,,,,,Alien
+Iowa,90,HF686,03/29/2023,,,,,,,Immigration
+Iowa,90,HF675,03/20/2023,,04/11/2023,04/26/2023,,Y,05/11/2023,Foreign
+Iowa,90,HF674,03/20/2023,,04/19/2024,04/19/2024,,Y,05/08/2024,"Border, Foreign"
+Iowa,90,HF670,03/17/2023,,04/12/2023,04/24/2023,,Y,06/01/2023,Foreign
+Iowa,90,HF664,03/13/2023,,04/17/2024,04/10/2024,,Y,05/17/2024,Foreign
+Iowa,90,HF662,03/09/2023,,,,03/15/2023,,,"Citizenship, Alien, Migrant, Undocumented, Visa, Border, Foreign"
+Iowa,90,HF656,03/07/2023,,03/14/2023,04/17/2023,,Y,04/27/2023,Border
+Iowa,90,HF650,03/07/2023,,,,,,,"Visa, Foreign"
+Iowa,90,HF647,03/07/2023,,,,05/02/2023,,,Migrant
+Iowa,90,HF642,03/07/2023,,,,,,,"Alien, Foreign"
+Iowa,90,HF640,03/07/2023,,,,04/12/2023,,,Foreign
+Iowa,90,HF637,03/06/2023,,,,,,,Citizenship
+Iowa,90,HF618,03/03/2023,,,,03/20/2024,,,Foreign
+Iowa,90,HF727,05/03/2023,,,,05/03/2023,,,Border
+Iowa,90,HF725,05/02/2023,,,,05/04/2023,,,Alien
+Iowa,90,HF715,04/13/2023,,,,05/01/2023,,,"Visa, Foreign"
+Iowa,90,SF98,01/19/2023,,,,,,,Foreign
+Iowa,90,SF80,01/17/2023,,,,,,,"Border, Foreign"
+Iowa,90,SF50,01/11/2023,,,,,,,Foreign
+Iowa,90,SF17,01/09/2023,,,,,,,Foreign
+Iowa,90,SF167,01/30/2023,,,,,,,Migrant
+Iowa,90,SF147,01/26/2023,,,,05/02/2023,,,Foreign
+Iowa,90,SF141,01/26/2023,,,,,,,Foreign
+Iowa,90,SF140,01/25/2023,,,,,,,Foreign
+Iowa,90,SF136,01/25/2023,,,,,,,Foreign
+Iowa,90,SF120,01/24/2023,,,,,,,"Citizenship, Foreign"
+Iowa,90,SF108,01/19/2023,,02/28/2024,,,,,"Immigration, Alien"
+Iowa,90,SF295,02/15/2023,,03/05/2024,02/29/2024,,Y,04/10/2024,"Visa, Foreign"
+Iowa,90,SF292,02/15/2023,,,,,,,Foreign
+Iowa,90,SF286,02/14/2023,,,,04/19/2023,,,"Citizenship, Visa, Foreign"
+Iowa,90,SF273,02/13/2023,,,,,,,Border
+Iowa,90,SF268,02/13/2023,,,,,,,Citizenship
+Iowa,90,SF262,02/13/2023,,03/06/2023,03/15/2023,,Y,03/28/2023,"Immigration, Citizenship"
+Iowa,90,SF244,02/08/2023,,,,,,,Foreign
+Iowa,90,SF390,02/23/2023,,,,,,,Visa
+Iowa,90,SF380,02/22/2023,,,,,,,"Border, Foreign"
+Iowa,90,SF364,02/22/2023,,,,04/19/2023,,,"Immigration, Visa, Foreign"
+Iowa,90,SF306,02/15/2023,,,,,,,"Visa, Foreign"
+Iowa,90,SF498,03/02/2023,,,,,,,Foreign
+Iowa,90,SF494,03/02/2023,,03/22/2023,04/13/2023,04/13/2023,Y,06/01/2023,"Immigration, Citizenship"
+Iowa,90,SF477,03/01/2023,,03/26/2024,03/18/2024,,Y,05/03/2024,"Immigration, Foreign"
+Iowa,90,SF473,03/01/2023,,03/21/2023,04/04/2023,,Y,04/28/2023,Visa
+Iowa,90,SF439,02/27/2023,,,,,,,Immigration
+Iowa,90,SF425,02/27/2023,,,,,,,Foreign
+Iowa,90,SF424,02/27/2023,,,,,,,Foreign
+Iowa,90,SF421,02/27/2023,,,,,,,Foreign
+Iowa,90,SF420,02/27/2023,,,,04/19/2023,,,"Alien, Foreign"
+Iowa,90,SF418,02/27/2023,,03/22/2023,04/19/2023,,Y,05/03/2023,Foreign
+Iowa,90,SF404,02/23/2023,,,,,,,Visa
+Iowa,90,SF574,04/24/2023,,04/16/2024,03/06/2024,03/06/2024,Y,05/01/2024,Foreign
+Iowa,90,SF569,04/18/2023,,04/19/2023,,,,,Foreign
+Iowa,90,SF566,04/06/2023,,,,04/26/2023,,,Foreign
+Iowa,90,SF562,04/04/2023,,05/02/2023,05/03/2023,05/03/2023,Y,06/01/2023,Border
+Iowa,90,SF559,04/04/2023,,05/02/2023,05/04/2023,05/04/2023,Y,06/01/2023,Alien
+Iowa,90,SF558,04/04/2023,,04/25/2023,05/02/2023,05/02/2023,Y,06/01/2023,Foreign
+Iowa,90,SF556,03/23/2023,,,,,,,Foreign
+Iowa,90,SF549,03/09/2023,,04/24/2023,04/13/2023,,Y,06/01/2023,Alien
+Iowa,90,SF544,03/06/2023,,,,04/27/2023,,,Foreign
+Iowa,90,SF542,03/06/2023,,05/03/2023,05/02/2023,05/02/2023,Y,05/26/2023,Migrant
+Iowa,90,SF541,03/06/2023,,,,04/24/2023,,,Foreign
+Iowa,90,SF540,03/06/2023,,,,,,,Foreign
+Iowa,90,SF526,03/06/2023,,,,,,,"Visa, Foreign"
+Iowa,90,SF509,03/02/2023,,,,,,,Foreign
+Iowa,90,HSB96,01/25/2023,,,,,,,"Alien, Foreign"
+Iowa,90,HSB68,01/20/2023,,,,,,,Foreign
+Iowa,90,HSB41,01/17/2023,,,,,,,Foreign
+Iowa,90,HSB15,01/12/2023,,,,,,,Foreign
+Iowa,90,HSB12,01/12/2023,,,,,,,"Immigration, Citizenship"
+Iowa,90,HSB5,01/11/2023,,,,,,,Foreign
+Iowa,90,HSB2,01/11/2023,,,,,,,Foreign
+Iowa,90,HSB251,04/28/2023,,,,,,,Border
+Iowa,90,HSB249,04/28/2023,,,,,,,Alien
+Iowa,90,HSB228,03/08/2023,,,,,,,Foreign
+Iowa,90,HSB227,03/08/2023,,,,,,,Foreign
+Iowa,90,HSB222,02/28/2023,,,,,,,"Immigration, Citizenship"
+Iowa,90,HSB220,02/28/2023,,,,,,,Border
+Iowa,90,HSB212,02/27/2023,,,,,,,Border
+Iowa,90,HSB207,02/24/2023,,,,,,,Foreign
+Iowa,90,HSB596,01/22/2024,,,,,,,Visa
+Iowa,90,HSB559,01/16/2024,,,,,,,Foreign
+Iowa,90,HSB542,01/10/2024,,,,,,,Visa
+Iowa,90,HSB534,01/09/2024,,,,,,,Citizenship
+Iowa,90,HSB700,02/13/2024,,,,,,,Foreign
+Iowa,90,HSB697,02/12/2024,,,,,,,Citizenship
+Iowa,90,HSB696,02/12/2024,,,,,,,Border
+Iowa,90,HSB694,02/12/2024,,,,,,,Visa
+Iowa,90,HSB682,02/08/2024,,,,,,,Foreign
+Iowa,90,HSB674,02/07/2024,,,,,,,"Visa, Border"
+Iowa,90,HSB670,02/06/2024,,,,,,,Foreign
+Iowa,90,HSB664,02/06/2024,,,,,,,Citizenship
+Iowa,90,HSB663,02/06/2024,,,,,,,"Alien, Foreign"
+Iowa,90,HSB659,02/06/2024,,,,,,,Foreign
+Iowa,90,HSB653,02/05/2024,,,,,,,"Citizenship, Visa, Border"
+Iowa,90,HSB649,02/01/2024,,,,,,,Foreign
+Iowa,90,HSB645,01/31/2024,,,,,,,"Migrant, Foreign"
+Iowa,90,HSB632,01/30/2024,,,,,,,Foreign
+Iowa,90,HSB626,01/29/2024,,,,,,,Foreign
+Iowa,90,HSB624,01/29/2024,,,,,,,Visa
+Iowa,90,HSB622,01/29/2024,,,,,,,"Migrant, Foreign"
+Iowa,90,HSB606,01/24/2024,,,,,,,Foreign
+Iowa,90,HSB752,04/18/2024,,,,,,,Border
+Iowa,90,HSB739,03/14/2024,,,,,,,Foreign
+Iowa,90,HSB724,02/21/2024,,,,,,,Visa
+Iowa,90,HSB720,02/20/2024,,,,,,,Visa
+Iowa,90,HSB710,02/13/2024,,,,,,,Citizenship
+Iowa,90,HSB705,02/13/2024,,,,,,,Foreign
+Iowa,90,HSB704,02/13/2024,,,,,,,Foreign
+Iowa,90,HSB703,02/13/2024,,,,,,,"Immigration, Alien, Foreign"
+Iowa,91,HF99,01/22/2025,,,,,,,"Citizenship, Foreign"
+Iowa,91,HF91,01/17/2025,,,,,,,Citizenship
+Iowa,91,HF83,01/17/2025,,,,,,,"Alien, Foreign"
+Iowa,91,HF53,01/14/2025,,,,,,,Border
+Iowa,91,HF191,02/03/2025,,,,,,,Border
+Iowa,91,HF165,01/30/2025,,,,04/17/2025,,,"Immigration, Citizenship"
+Iowa,91,HF151,01/30/2025,,,,,,,Border
+Iowa,91,HF115,01/23/2025,,,,,,,"Migrant, Visa"
+Iowa,91,HF290,02/10/2025,,,,,,,Citizenship
+Iowa,91,HF256,02/06/2025,,,,,,,Foreign
+Iowa,91,HF255,02/06/2025,,,,,,,Foreign
+Iowa,91,HF254,02/06/2025,,,,,,,Foreign
+Iowa,91,HF230,02/06/2025,,,,03/31/2025,,,Alien
+Iowa,91,HF210,02/06/2025,,,,,,,Foreign
+Iowa,91,HF469,02/19/2025,,,,,,,Foreign
+Iowa,91,HF451,02/18/2025,,,,,,,Foreign
+Iowa,91,HF439,02/17/2025,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,91,HF437,02/17/2025,,03/18/2025,04/15/2025,03/18/2025,Y,06/11/2025,Citizenship
+Iowa,91,HF430,02/17/2025,,,,,,,Border
+Iowa,91,HF429,02/17/2025,,,,,,,Foreign
+Iowa,91,HF428,02/17/2025,,,,,,,"Border, Foreign"
+Iowa,91,HF576,02/24/2025,,,,,,,"Migrant, Visa"
+Iowa,91,HF575,02/24/2025,,,,,,,Foreign
+Iowa,91,HF572,02/24/2025,,03/20/2025,,03/20/2025,,,Immigration
+Iowa,91,HF688,02/28/2025,,,,,,,Foreign
+Iowa,91,HF687,02/28/2025,,,,,,,Foreign
+Iowa,91,HF666,02/28/2025,,,,,,,"Alien, Foreign"
+Iowa,91,HF800,03/05/2025,,,,,,,Foreign
+Iowa,91,HF778,03/05/2025,,03/17/2025,04/08/2025,,Y,05/01/2025,Foreign
+Iowa,91,HF759,03/05/2025,,,,04/28/2025,,,Foreign
+Iowa,91,HF756,03/05/2025,,,,04/28/2025,,,Foreign
+Iowa,91,HF732,03/04/2025,,,,,,,Citizenship
+Iowa,91,HF730,03/04/2025,,,,,,,Border
+Iowa,91,HF828,03/07/2025,,,,,,,Immigration
+Iowa,91,HF997,04/07/2025,,04/21/2025,,,,,Foreign
+Iowa,91,HF954,03/12/2025,,03/25/2025,04/07/2025,,Y,06/02/2025,Citizenship
+Iowa,91,HF952,03/12/2025,,,,05/08/2025,,,Foreign
+Iowa,91,HF946,03/12/2025,,03/26/2025,,,,,Immigration
+Iowa,91,HF930,03/12/2025,,,,,,,Foreign
+Iowa,91,HF927,03/12/2025,,,,,,,Border
+Iowa,91,HF912,03/11/2025,,,,,,,Foreign
+Iowa,91,HF1045,05/09/2025,,,,05/13/2025,,,Citizenship
+Iowa,91,HF1043,05/09/2025,,,,05/13/2025,,,Foreign
+Iowa,91,HF1040,05/05/2025,,,,05/13/2025,,,Alien
+Iowa,91,HF1028,04/17/2025,,04/24/2025,05/13/2025,,,,Foreign
+Iowa,91,SF94,01/22/2025,,,,,,,Citizenship
+Iowa,91,SF55,01/16/2025,,,,,,,Alien
+Iowa,91,SF54,01/16/2025,,,,,,,Foreign
+Iowa,91,SF48,01/15/2025,,,,,,,Foreign
+Iowa,91,SF2,01/13/2025,,,,,,,Foreign
+Iowa,91,SF173,02/03/2025,,,,,,,Border
+Iowa,91,SF161,01/29/2025,,,,,,,Alien
+Iowa,91,SF155,01/29/2025,,,,,,,"Citizenship, Foreign"
+Iowa,91,SF127,01/23/2025,,,,,,,Citizenship
+Iowa,91,SF297,02/12/2025,,04/21/2025,05/08/2025,,,,Foreign
+Iowa,91,SF279,02/12/2025,,,,,,,Alien
+Iowa,91,SF227,02/06/2025,,,,,,,Foreign
+Iowa,91,SF221,02/05/2025,,,,,,,Foreign
+Iowa,91,SF396,02/20/2025,,,,04/08/2025,,,Foreign
+Iowa,91,SF390,02/20/2025,,,,,,,Foreign
+Iowa,91,SF369,02/19/2025,,04/14/2025,04/17/2025,04/17/2025,Y,05/27/2025,"Immigration, Citizenship"
+Iowa,91,SF354,02/18/2025,,,,,,,Border
+Iowa,91,SF307,02/13/2025,,,,,,,Foreign
+Iowa,91,SF302,02/13/2025,,,,,,,"Citizenship, Foreign"
+Iowa,91,SF495,03/04/2025,,,,04/14/2025,,,Alien
+Iowa,91,SF494,03/04/2025,,03/24/2025,,,,,Alien
+Iowa,91,SF479,03/03/2025,,,,,,,Foreign
+Iowa,91,SF477,03/03/2025,,,,04/08/2025,,,Foreign
+Iowa,91,SF435,02/25/2025,,,,,,,Border
+Iowa,91,SF586,03/10/2025,,,,,,,Foreign
+Iowa,91,SF570,03/10/2025,,,,,,,Foreign
+Iowa,91,SF550,03/06/2025,,,,,,,Citizenship
+Iowa,91,SF532,03/05/2025,,,,,,,Alien
+Iowa,91,SF519,03/05/2025,,,,04/15/2025,,,Citizenship
+Iowa,91,SF517,03/05/2025,,,,,,,Foreign
+Iowa,91,SF509,03/04/2025,,,,,,,Foreign
+Iowa,91,SF646,05/01/2025,,05/12/2025,05/13/2025,,Y,06/11/2025,Foreign
+Iowa,91,SF645,04/30/2025,,05/13/2025,05/13/2025,,Y,06/11/2025,Alien
+Iowa,91,SF630,04/17/2025,,,,05/13/2025,,,Foreign
+Iowa,91,SF614,03/19/2025,,,,05/13/2025,,,Visa
+Iowa,91,HSB89,01/28/2025,,,,,,,Visa
+Iowa,91,HSB80,01/23/2025,,,,,,,Border
+Iowa,91,HSB72,01/23/2025,,,,,,,Foreign
+Iowa,91,HSB71,01/23/2025,,,,,,,Foreign
+Iowa,91,HSB54,01/22/2025,,,,,,,Foreign
+Iowa,91,HSB52,01/22/2025,,,,,,,Citizenship
+Iowa,91,HSB37,01/17/2025,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,91,HSB30,01/15/2025,,,,,,,"Immigration, Citizenship"
+Iowa,91,HSB187,02/17/2025,,,,,,,Immigration
+Iowa,91,HSB177,02/13/2025,,,,,,,Foreign
+Iowa,91,HSB141,02/06/2025,,,,,,,Foreign
+Iowa,91,HSB137,02/06/2025,,,,,,,"Immigration, Citizenship"
+Iowa,91,HSB132,02/05/2025,,,,,,,Foreign
+Iowa,91,HSB119,02/03/2025,,,,,,,Foreign
+Iowa,91,HSB115,02/03/2025,,,,,,,Foreign
+Iowa,91,HSB109,01/30/2025,,,,,,,Foreign
+Iowa,91,HSB293,03/04/2025,,,,,,,Border
+Iowa,91,HSB291,03/04/2025,,,,,,,Foreign
+Iowa,91,HSB289,03/04/2025,,,,,,,Foreign
+Iowa,91,HSB285,03/04/2025,,,,,,,Immigration
+Iowa,91,HSB282,03/04/2025,,,,,,,Immigration
+Iowa,91,HSB281,03/03/2025,,,,,,,Citizenship
+Iowa,91,HSB223,02/20/2025,,,,,,,Foreign
+Iowa,91,HSB211,02/19/2025,,,,,,,Foreign
+Iowa,91,HSB338,04/30/2025,,,,,,,Foreign
+Iowa,91,HSB337,04/29/2025,,,,,,,Citizenship
+Iowa,91,HSB336,04/29/2025,,,,,,,Alien
+Iowa,91,HSB309,03/06/2025,,,,,,,Foreign
+Iowa,91,HSB308,03/06/2025,,,,,,,Foreign
