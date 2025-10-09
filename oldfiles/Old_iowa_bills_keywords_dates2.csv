@@ -1,0 +1,111 @@
+State,Policy (bill) identifier,bill text,Cosponsor,Introduced (Y/N),Introduced date,Chamber where introduced,Effective (Y/N),Effective date,Passed introduced chamber (Y/N),Passed introduced chamber date,Passed second chamber (Y/N),Passed second chamber date,Pending (Y/N),Dead (Y/N),Chamber where died,Dead date,Enacted (Y/N),Act identifier,Enacted Date,Matched keywords
+Iowa,HF99,bill_texts/GA91/HF99.txt,,,,House,,,,,,,Y,,,,,,,"Citizenship, Foreign"
+Iowa,HF91,bill_texts/GA91/HF91.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF83,bill_texts/GA91/HF83.txt,,,,House,,,,,,,Y,,,,,,,"Alien, Foreign"
+Iowa,HF53,bill_texts/GA91/HF53.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF191,bill_texts/GA91/HF191.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF165,bill_texts/GA91/HF165.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,HF151,bill_texts/GA91/HF151.txt,,,,House,,,,,,,Y,,,,,Chapter 468,,Border
+Iowa,HF144,bill_texts/GA91/HF144.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF115,bill_texts/GA91/HF115.txt,,,,House,,,,,,,Y,,,,,Chapter 256,,"Migrant, Visa"
+Iowa,HF290,bill_texts/GA91/HF290.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF256,bill_texts/GA91/HF256.txt,,,,House,,,,,,,Y,,,,,Chapter 147,,Foreign
+Iowa,HF255,bill_texts/GA91/HF255.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF254,bill_texts/GA91/HF254.txt,,,,House,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,HF230,bill_texts/GA91/HF230.txt,,,,House,,,,,,,Y,,,,,,,Alien
+Iowa,HF210,bill_texts/GA91/HF210.txt,,,,House,,,,,,,Y,,,,,Chapter 535,,Foreign
+Iowa,HF469,bill_texts/GA91/HF469.txt,,,,House,,,,,,,Y,,,,,Chapter 239,,Foreign
+Iowa,HF451,bill_texts/GA91/HF451.txt,,,,House,,,,,,,Y,,,,,Chapter 423,,Foreign
+Iowa,HF439,bill_texts/GA91/HF439.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,HF437,bill_texts/GA91/HF437.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF430,bill_texts/GA91/HF430.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF429,bill_texts/GA91/HF429.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF428,bill_texts/GA91/HF428.txt,,,,House,,,,,,,Y,,,,,,,"Border, Foreign"
+Iowa,HF576,bill_texts/GA91/HF576.txt,,,,House,,,,,,,Y,,,,,Chapter 256,,"Migrant, Visa"
+Iowa,HF575,bill_texts/GA91/HF575.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HF572,bill_texts/GA91/HF572.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HF688,bill_texts/GA91/HF688.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF687,bill_texts/GA91/HF687.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF666,bill_texts/GA91/HF666.txt,,,,House,,,,,,,Y,,,,,Chapter 616,,"Alien, Foreign"
+Iowa,HF800,bill_texts/GA91/HF800.txt,,,,House,,,,,,,Y,,,,,Chapter 182,,Foreign
+Iowa,HF778,bill_texts/GA91/HF778.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF759,bill_texts/GA91/HF759.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF756,bill_texts/GA91/HF756.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HF732,bill_texts/GA91/HF732.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HF730,bill_texts/GA91/HF730.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF828,bill_texts/GA91/HF828.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Immigration
+Iowa,HF997,bill_texts/GA91/HF997.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF954,bill_texts/GA91/HF954.txt,,,,House,,,,,,,Y,,,,,Chapter 45,,Citizenship
+Iowa,HF952,bill_texts/GA91/HF952.txt,,,,House,,,,,,,Y,,,,,Chapter 13,,Foreign
+Iowa,HF946,bill_texts/GA91/HF946.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HF930,bill_texts/GA91/HF930.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HF927,bill_texts/GA91/HF927.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HF912,bill_texts/GA91/HF912.txt,,,,House,,,,,,,Y,,,,,Chapter 239,,Foreign
+Iowa,HF1045,bill_texts/GA91/HF1045.txt,,,,House,,,,,,,Y,,,,,Chapter 284,,Citizenship
+Iowa,HF1043,bill_texts/GA91/HF1043.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Foreign
+Iowa,HF1040,bill_texts/GA91/HF1040.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Alien
+Iowa,HF1028,bill_texts/GA91/HF1028.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,SF94,bill_texts/GA91/SF94.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF55,bill_texts/GA91/SF55.txt,,,,Senate,,,,,,,Y,,,,,Chapter 321,,Alien
+Iowa,SF54,bill_texts/GA91/SF54.txt,,,,Senate,,,,,,,Y,,,,,Chapter 535,,Foreign
+Iowa,SF48,bill_texts/GA91/SF48.txt,,,,Senate,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,SF2,bill_texts/GA91/SF2.txt,,,,Senate,,,,,,,Y,,,,,Chapter 147,,Foreign
+Iowa,SF173,bill_texts/GA91/SF173.txt,,,,Senate,,,,,,,Y,,,,,,,Border
+Iowa,SF161,bill_texts/GA91/SF161.txt,,,,Senate,,,,,,,Y,,,,,Chapter 199,,Alien
+Iowa,SF155,bill_texts/GA91/SF155.txt,,,,Senate,,,,,,,Y,,,,,,,"Citizenship, Foreign"
+Iowa,SF127,bill_texts/GA91/SF127.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF297,bill_texts/GA91/SF297.txt,,,,Senate,,,,,,,Y,,,,,Chapter 13,,Foreign
+Iowa,SF279,bill_texts/GA91/SF279.txt,,,,Senate,,,,,,,Y,,,,,,,Alien
+Iowa,SF227,bill_texts/GA91/SF227.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF221,bill_texts/GA91/SF221.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF396,bill_texts/GA91/SF396.txt,,,,Senate,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,SF390,bill_texts/GA91/SF390.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF369,bill_texts/GA91/SF369.txt,,,,Senate,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,SF354,bill_texts/GA91/SF354.txt,,,,Senate,,,,,,,Y,,,,,,,Border
+Iowa,SF307,bill_texts/GA91/SF307.txt,,,,Senate,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,SF302,bill_texts/GA91/SF302.txt,,,,Senate,,,,,,,Y,,,,,,,"Citizenship, Foreign"
+Iowa,SF495,bill_texts/GA91/SF495.txt,,,,Senate,,,,,,,Y,,,,,,,Alien
+Iowa,SF494,bill_texts/GA91/SF494.txt,,,,Senate,,,,,,,Y,,,,,Chapter 199,,Alien
+Iowa,SF479,bill_texts/GA91/SF479.txt,,,,Senate,,,,,,,Y,,,,,Chapter 9,,Foreign
+Iowa,SF477,bill_texts/GA91/SF477.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF435,bill_texts/GA91/SF435.txt,,,,Senate,,,,,,,Y,,,,,Chapter 468,,Border
+Iowa,SF586,bill_texts/GA91/SF586.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF570,bill_texts/GA91/SF570.txt,,,,Senate,,,,,,,Y,,,,,Chapter 490,,Foreign
+Iowa,SF550,bill_texts/GA91/SF550.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF532,bill_texts/GA91/SF532.txt,,,,Senate,,,,,,,Y,,,,,Chapter 108,,Alien
+Iowa,SF519,bill_texts/GA91/SF519.txt,,,,Senate,,,,,,,Y,,,,,,,Citizenship
+Iowa,SF517,bill_texts/GA91/SF517.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF509,bill_texts/GA91/SF509.txt,,,,Senate,,,,,,,Y,,,,,,,Foreign
+Iowa,SF646,bill_texts/GA91/SF646.txt,,,,Senate,,,,,,,Y,,,,,Chapter 1148,,Foreign
+Iowa,SF645,bill_texts/GA91/SF645.txt,,,,Senate,,,,,,,Y,,,,,Chapter 1148,,Alien
+Iowa,SF630,bill_texts/GA91/SF630.txt,,,,Senate,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,SF614,bill_texts/GA91/SF614.txt,,,,Senate,,,,,,,Y,,,,,Chapter 450,,Visa
+Iowa,HSB89,bill_texts/GA91/HSB89.txt,,,,House,,,,,,,Y,,,,,Chapter 450,,Visa
+Iowa,HSB80,bill_texts/GA91/HSB80.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HSB72,bill_texts/GA91/HSB72.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HSB71,bill_texts/GA91/HSB71.txt,,,,House,,,,,,,Y,,,,,Chapter 8,,Foreign
+Iowa,HSB54,bill_texts/GA91/HSB54.txt,,,,House,,,,,,,Y,,,,,Chapter 22,,Foreign
+Iowa,HSB52,bill_texts/GA91/HSB52.txt,,,,House,,,,,,,Y,,,,,,,Citizenship
+Iowa,HSB37,bill_texts/GA91/HSB37.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship, Foreign"
+Iowa,HSB30,bill_texts/GA91/HSB30.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,HSB187,bill_texts/GA91/HSB187.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HSB177,bill_texts/GA91/HSB177.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB141,bill_texts/GA91/HSB141.txt,,,,House,,,,,,,Y,,,,,Chapter 232,,Foreign
+Iowa,HSB137,bill_texts/GA91/HSB137.txt,,,,House,,,,,,,Y,,,,,,,"Immigration, Citizenship"
+Iowa,HSB132,bill_texts/GA91/HSB132.txt,,,,House,,,,,,,Y,,,,,Chapter 182,,Foreign
+Iowa,HSB119,bill_texts/GA91/HSB119.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB115,bill_texts/GA91/HSB115.txt,,,,House,,,,,,,Y,,,,,Chapter 148,,Foreign
+Iowa,HSB109,bill_texts/GA91/HSB109.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB293,bill_texts/GA91/HSB293.txt,,,,House,,,,,,,Y,,,,,,,Border
+Iowa,HSB291,bill_texts/GA91/HSB291.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB289,bill_texts/GA91/HSB289.txt,,,,House,,,,,,,Y,,,,,Chapter 216,,Foreign
+Iowa,HSB285,bill_texts/GA91/HSB285.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HSB282,bill_texts/GA91/HSB282.txt,,,,House,,,,,,,Y,,,,,,,Immigration
+Iowa,HSB281,bill_texts/GA91/HSB281.txt,,,,House,,,,,,,Y,,,,,Chapter 45,,Citizenship
+Iowa,HSB223,bill_texts/GA91/HSB223.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB211,bill_texts/GA91/HSB211.txt,,,,House,,,,,,,Y,,,,,Chapter 488,,Foreign
+Iowa,HSB338,bill_texts/GA91/HSB338.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Foreign
+Iowa,HSB337,bill_texts/GA91/HSB337.txt,,,,House,,,,,,,Y,,,,,Chapter 284,,Citizenship
+Iowa,HSB336,bill_texts/GA91/HSB336.txt,,,,House,,,,,,,Y,,,,,Chapter 1148,,Alien
+Iowa,HSB309,bill_texts/GA91/HSB309.txt,,,,House,,,,,,,Y,,,,,,,Foreign
+Iowa,HSB308,bill_texts/GA91/HSB308.txt,,,,House,,,,,,,Y,,,,,,,Foreign
