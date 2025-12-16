@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ILGA Phase 2 — Enrich from ILGA Bill Status pages.
+ILGA Phase 2 — Enrich from ILGA Bill Status pages. 1
 Priority: link on Full-Text page -> FTP HTML -> FTP XML -> ASP w/ GAID -> other ASP.
 
 Input CSV (Phase 1):
