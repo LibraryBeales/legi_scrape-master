@@ -10,7 +10,7 @@ normalize_case = False        # set True for case-insensitive counting
 # === Load CSV ===
 df = pd.read_csv(input_file)
 
-# Pick a bill-id column (supports common variants)
+# Pick bill-id column (supports common variants)
 bill_id_col = None
 for c in ["Bill Identifier", "Policy (bill) identifier", "Bill_ID", "BillId"]:
     if c in df.columns:
