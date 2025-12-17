@@ -740,9 +740,9 @@ def main():
     """Main function to run the scraper"""
     
     # ===== EASY CONFIGURATION - EDIT THESE VALUES =====
-    ASSEMBLIES_TO_SEARCH = ["136"]     # Change to ["135"] or ["136", "135"] etc.
+    ASSEMBLIES_TO_SEARCH = ["135"]     # Change to ["135"] or ["136", "135"] etc.
     MAX_BILLS_PER_TYPE = None           # Change to None for no limit, or any number
-    OUTPUT_FILENAME = "ohio_immigration_bills.csv"
+    OUTPUT_FILENAME = "ohio_immigration_bills_GA135.csv"
     # ==================================================
     
     # Check for PDF libraries
