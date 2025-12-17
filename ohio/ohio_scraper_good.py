@@ -187,7 +187,7 @@ class OhioLegislatureScraper:
         
         # Set reasonable default if no max specified
         if max_bills_per_type is None:
-            max_bills_per_type = 1000  # High limit, but smart termination will stop earlier
+            max_bills_per_type = 2000  # High limit, but smart termination will stop earlier
         
         logger.info(f"Starting systematic search for Assembly {assembly}")
         logger.info(f"Max bills per type: {max_bills_per_type}, Smart termination: {max_consecutive_failures} consecutive failures")
@@ -743,7 +743,7 @@ def main():
     # ===== EASY CONFIGURATION - EDIT THESE VALUES =====
     
     # Assembly Options - Choose one:
-    ASSEMBLIES_TO_SEARCH = ["136"]                    # Current assembly only
+    ASSEMBLIES_TO_SEARCH = ["135"]                    # Current assembly only
     # ASSEMBLIES_TO_SEARCH = ["135"]                  # Previous assembly only  
     # ASSEMBLIES_TO_SEARCH = ["136", "135"]           # Current + previous
     # ASSEMBLIES_TO_SEARCH = ["136", "135", "134"]    # Recent assemblies
@@ -760,7 +760,7 @@ def main():
     # MAX_CONSECUTIVE_FAILURES = 100                  # More thorough search
     
     # Output filename:
-    OUTPUT_FILENAME = "ohio_immigration_bills.csv"
+    OUTPUT_FILENAME = "ohio_immigration_bills_GA135.csv"
     
     # ==================================================
     
