@@ -1,0 +1,167 @@
+State,GA,Policy (bill) identifier,Policy sponsor,Policy sponsor party,Link to bill,bill text,Cosponsor,Act identifier,Matched keywords,Introduced date,Effective date,Passed introduced chamber date,Passed second chamber date,Dead date,Enacted (Y/N),Enacted Date
+Ohio,134,SB1,,,https://legislature.ohio.gov/legislation/134/sb1,ohio_bill_texts\GA134_SB1.txt,,,Foreign,1-14-2021,1-27-2022,5-12-2021,9-29-2021,,Y,10-28-2021
+Ohio,134,SB2,,,https://legislature.ohio.gov/legislation/134/sb2,ohio_bill_texts\GA134_SB2.txt,,,Foreign,1-14-2021,,2-10-2021,3-25-2021,,Y,4-27-2021
+Ohio,134,SB3,,,https://legislature.ohio.gov/legislation/134/sb3,ohio_bill_texts\GA134_SB3.txt,,,Foreign,1-19-2021,9-30-2021,2-24-2021,6-23-2021,,Y,7-1-2021
+Ohio,134,SB6,,,https://legislature.ohio.gov/legislation/134/sb6,ohio_bill_texts\GA134_SB6.txt,,,Foreign,1-19-2021,9-30-2021,4-21-2021,6-23-2021,,Y,7-1-2021
+Ohio,134,SB13,,,https://legislature.ohio.gov/legislation/134/sb13,ohio_bill_texts\GA134_SB13.txt,,,Foreign,1-21-2021,,2-3-2021,2-25-2021,,Y,3-16-2021
+Ohio,134,SB17,,,https://legislature.ohio.gov/legislation/134/sb17,ohio_bill_texts\GA134_SB17.txt,,,Citizenship; Alien,1-26-2021,,,,,N,
+Ohio,134,SB36,,,https://legislature.ohio.gov/legislation/134/sb36,ohio_bill_texts\GA134_SB36.txt,,,Foreign,2-2-2021,,3-3-2021,10-27-2021,,Y,11-30-2021
+Ohio,134,SB45,,,https://legislature.ohio.gov/legislation/134/sb45,ohio_bill_texts\GA134_SB45.txt,,,Foreign,2-2-2021,,,,,N,
+Ohio,134,SB55,,,https://legislature.ohio.gov/legislation/134/sb55,ohio_bill_texts\GA134_SB55.txt,,,Foreign,2-9-2021,,,,,N,
+Ohio,134,SB59,,,https://legislature.ohio.gov/legislation/134/sb59,ohio_bill_texts\GA134_SB59.txt,,,Border,2-9-2021,,4-28-2021,11-17-2021,,Y,12-22-2021
+Ohio,134,SB62,,,https://legislature.ohio.gov/legislation/134/sb62,ohio_bill_texts\GA134_SB62.txt,,,Foreign,2-17-2021,,,,,N,
+Ohio,134,SB73,,,https://legislature.ohio.gov/legislation/134/sb73,ohio_bill_texts\GA134_SB73.txt,,,Foreign,2-23-2021,,,,,N,
+Ohio,134,SB78,,,https://legislature.ohio.gov/legislation/134/sb78,ohio_bill_texts\GA134_SB78.txt,,,Foreign,2-23-2021,,,,,N,
+Ohio,134,SB98,,,https://legislature.ohio.gov/legislation/134/sb98,ohio_bill_texts\GA134_SB98.txt,,,Foreign,2-24-2021,,,,,N,
+Ohio,134,SB103,,,https://legislature.ohio.gov/legislation/134/sb103,ohio_bill_texts\GA134_SB103.txt,,,Foreign,3-2-2021,,,,,N,
+Ohio,134,SB112,,,https://legislature.ohio.gov/legislation/134/sb112,ohio_bill_texts\GA134_SB112.txt,,,Foreign,3-2-2021,,2-9-2022,,,N,
+Ohio,134,SB114,,,https://legislature.ohio.gov/legislation/134/sb114,ohio_bill_texts\GA134_SB114.txt,,,Foreign,3-2-2021,,,,,N,
+Ohio,134,SB122,,,https://legislature.ohio.gov/legislation/134/sb122,ohio_bill_texts\GA134_SB122.txt,,,Foreign,3-9-2021,,,,,N,
+Ohio,134,SB131,,,https://legislature.ohio.gov/legislation/134/sb131,ohio_bill_texts\GA134_SB131.txt,,,Alien; Border; Foreign,3-16-2021,12-29-2023,6-1-2022,12-14-2022,,Y,1-2-2023
+Ohio,134,SB135,,,https://legislature.ohio.gov/legislation/134/sb135,ohio_bill_texts\GA134_SB135.txt,,,Foreign,3-17-2021,7-21-2022,6-16-2021,4-6-2022,,Y,4-21-2022
+Ohio,134,SB138,,,https://legislature.ohio.gov/legislation/134/sb138,ohio_bill_texts\GA134_SB138.txt,,,Immigration; Citizenship; Alien; Visa; Foreign,3-17-2021,,,,,N,
+Ohio,134,SB142,,,https://legislature.ohio.gov/legislation/134/sb142,ohio_bill_texts\GA134_SB142.txt,,,Alien; Foreign,3-23-2021,,,,,N,
+Ohio,134,SB144,,,https://legislature.ohio.gov/legislation/134/sb144,ohio_bill_texts\GA134_SB144.txt,,,Foreign,3-23-2021,,,,,N,
+Ohio,134,SB145,,,https://legislature.ohio.gov/legislation/134/sb145,ohio_bill_texts\GA134_SB145.txt,,,Citizenship; Migrant,3-23-2021,,,,,N,
+Ohio,134,SB154,,,https://legislature.ohio.gov/legislation/134/sb154,ohio_bill_texts\GA134_SB154.txt,,,Border,4-13-2021,,,,,N,
+Ohio,134,SB163,,,https://legislature.ohio.gov/legislation/134/sb163,ohio_bill_texts\GA134_SB163.txt,,,Border,4-15-2021,,,,,N,
+Ohio,134,SB164,,,https://legislature.ohio.gov/legislation/134/sb164,ohio_bill_texts\GA134_SB164.txt,,,Foreign,4-15-2021,,6-1-2022,12-14-2022,,Y,1-2-2023
+Ohio,134,SB176,,,https://legislature.ohio.gov/legislation/134/sb176,ohio_bill_texts\GA134_SB176.txt,,,Undocumented; Foreign,5-6-2021,,6-16-2021,,,N,
+Ohio,134,SB178,,,https://legislature.ohio.gov/legislation/134/sb178,ohio_bill_texts\GA134_SB178.txt,,,Immigration; Citizenship; Alien; Migrant; Border; Foreign,5-11-2021,,12-7-2022,,,N,
+Ohio,134,SB182,,,https://legislature.ohio.gov/legislation/134/sb182,ohio_bill_texts\GA134_SB182.txt,,,Foreign,5-18-2021,,,,,N,
+Ohio,134,SB199,,,https://legislature.ohio.gov/legislation/134/sb199,ohio_bill_texts\GA134_SB199.txt,,,Foreign,6-16-2021,,3-16-2022,12-1-2022,,N,
+Ohio,134,SB214,,,https://legislature.ohio.gov/legislation/134/sb214,ohio_bill_texts\GA134_SB214.txt,,,Foreign,8-5-2021,,,,,N,
+Ohio,134,SB221,,,https://legislature.ohio.gov/legislation/134/sb221,ohio_bill_texts\GA134_SB221.txt,,,Foreign,9-2-2021,,,,,N,
+Ohio,134,SB222,,,https://legislature.ohio.gov/legislation/134/sb222,ohio_bill_texts\GA134_SB222.txt,,,Foreign,9-2-2021,,,,,N,
+Ohio,134,SB224,,,https://legislature.ohio.gov/legislation/134/sb224,ohio_bill_texts\GA134_SB224.txt,,,Border; Foreign,9-8-2021,,3-16-2022,6-1-2022,,Y,6-14-2022
+Ohio,134,SB228,,,https://legislature.ohio.gov/legislation/134/sb228,ohio_bill_texts\GA134_SB228.txt,,,Foreign,9-14-2021,,,,,N,
+Ohio,134,SB229,,,https://legislature.ohio.gov/legislation/134/sb229,ohio_bill_texts\GA134_SB229.txt,,,Foreign,9-14-2021,12-14-2021,10-20-2021,11-18-2021,,Y,12-14-2021
+Ohio,134,SB232,,,https://legislature.ohio.gov/legislation/134/sb232,ohio_bill_texts\GA134_SB232.txt,,,Citizenship; Foreign,9-15-2021,,,,,N,
+Ohio,134,SB235,,,https://legislature.ohio.gov/legislation/134/sb235,ohio_bill_texts\GA134_SB235.txt,,,Foreign,9-22-2021,,2-9-2022,,,N,
+Ohio,134,SB241,,,https://legislature.ohio.gov/legislation/134/sb241,ohio_bill_texts\GA134_SB241.txt,,,Foreign,9-30-2021,,1-26-2022,,,N,
+Ohio,134,SB246,,,https://legislature.ohio.gov/legislation/134/sb246,ohio_bill_texts\GA134_SB246.txt,,,Foreign,10-5-2021,,3-16-2022,6-1-2022,,Y,6-14-2022
+Ohio,134,SB249,,,https://legislature.ohio.gov/legislation/134/sb249,ohio_bill_texts\GA134_SB249.txt,,,Foreign,10-5-2021,,3-2-2022,11-30-2022,,Y,12-13-2022
+Ohio,134,SB253,,,https://legislature.ohio.gov/legislation/134/sb253,ohio_bill_texts\GA134_SB253.txt,,,Migrant,10-6-2021,,,,,N,
+Ohio,134,SB256,,,https://legislature.ohio.gov/legislation/134/sb256,ohio_bill_texts\GA134_SB256.txt,,,Alien; Foreign,10-19-2021,7-21-2022,1-26-2022,3-30-2022,,Y,4-21-2022
+Ohio,134,SB263,,,https://legislature.ohio.gov/legislation/134/sb263,ohio_bill_texts\GA134_SB263.txt,,,Citizenship; Alien; Foreign,11-16-2021,,,,,N,
+Ohio,134,SB265,,,https://legislature.ohio.gov/legislation/134/sb265,ohio_bill_texts\GA134_SB265.txt,,,Foreign,11-16-2021,,,,,N,
+Ohio,134,SB272,,,https://legislature.ohio.gov/legislation/134/sb272,ohio_bill_texts\GA134_SB272.txt,,,Citizenship; Foreign,11-29-2021,,,,,N,
+Ohio,134,SB273,,,https://legislature.ohio.gov/legislation/134/sb273,ohio_bill_texts\GA134_SB273.txt,,,Alien; Foreign,12-9-2021,,4-6-2022,6-1-2022,,Y,6-14-2022
+Ohio,134,SB277,,,https://legislature.ohio.gov/legislation/134/sb277,ohio_bill_texts\GA134_SB277.txt,,,Foreign,12-14-2021,,,,,N,
+Ohio,134,SB284,,,https://legislature.ohio.gov/legislation/134/sb284,ohio_bill_texts\GA134_SB284.txt,,,Foreign,1-24-2022,,,,,N,
+Ohio,134,SB288,,,https://legislature.ohio.gov/legislation/134/sb288,ohio_bill_texts\GA134_SB288.txt,,,Immigration; Citizenship; Alien; Visa; Border; Foreign,2-2-2022,,11-30-2022,12-14-2022,,Y,1-3-2023
+Ohio,134,SB295,,,https://legislature.ohio.gov/legislation/134/sb295,ohio_bill_texts\GA134_SB295.txt,,,Citizenship,2-15-2022,,,,,N,
+Ohio,134,SB297,,,https://legislature.ohio.gov/legislation/134/sb297,ohio_bill_texts\GA134_SB297.txt,,,Foreign,2-15-2022,,,,,N,
+Ohio,134,SB303,,,https://legislature.ohio.gov/legislation/134/sb303,ohio_bill_texts\GA134_SB303.txt,,,Citizenship,3-1-2022,,,,,N,
+Ohio,134,SB308,,,https://legislature.ohio.gov/legislation/134/sb308,ohio_bill_texts\GA134_SB308.txt,,,Foreign,3-8-2022,,,,,N,
+Ohio,134,SB317,,,https://legislature.ohio.gov/legislation/134/sb317,ohio_bill_texts\GA134_SB317.txt,,,Citizenship,3-23-2022,,,,,N,
+Ohio,134,SB319,,,https://legislature.ohio.gov/legislation/134/sb319,ohio_bill_texts\GA134_SB319.txt,,,Border,4-6-2022,,,,,N,
+Ohio,134,SB322,,,https://legislature.ohio.gov/legislation/134/sb322,ohio_bill_texts\GA134_SB322.txt,,,Immigration; Foreign,4-12-2022,,,,,N,
+Ohio,134,SB323,,,https://legislature.ohio.gov/legislation/134/sb323,ohio_bill_texts\GA134_SB323.txt,,,Border,4-13-2022,,6-1-2022,,,N,
+Ohio,134,SB351,,,https://legislature.ohio.gov/legislation/134/sb351,ohio_bill_texts\GA134_SB351.txt,,,Immigration; Citizenship; Alien; Visa; Foreign,6-22-2022,,,,,N,
+Ohio,134,SB355,,,https://legislature.ohio.gov/legislation/134/sb355,ohio_bill_texts\GA134_SB355.txt,,,Immigration; Alien; Foreign,7-21-2022,,,,,N,
+Ohio,134,SB357,,,https://legislature.ohio.gov/legislation/134/sb357,ohio_bill_texts\GA134_SB357.txt,,,Alien; Foreign,8-18-2022,,,,,N,
+Ohio,134,SB364,,,https://legislature.ohio.gov/legislation/134/sb364,ohio_bill_texts\GA134_SB364.txt,,,Foreign,10-17-2022,,,,,N,
+Ohio,134,SB365,,,https://legislature.ohio.gov/legislation/134/sb365,ohio_bill_texts\GA134_SB365.txt,,,Foreign,10-27-2022,,,,,N,
+Ohio,134,HB1,,,https://legislature.ohio.gov/legislation/134/hb1,ohio_bill_texts\GA134_HB1.txt,,,Foreign,2-3-2021,,,,,N,
+Ohio,134,HB13,,,https://legislature.ohio.gov/legislation/134/hb13,ohio_bill_texts\GA134_HB13.txt,,,Immigration; Foreign,2-3-2021,,,,,N,
+Ohio,134,HB29,,,https://legislature.ohio.gov/legislation/134/hb29,ohio_bill_texts\GA134_HB29.txt,,,Undocumented; Foreign,2-3-2021,,3-10-2021,6-24-2021,,Y,1-22-2021
+Ohio,134,HB45,,,https://legislature.ohio.gov/legislation/134/hb45,ohio_bill_texts\GA134_HB45.txt,,,Migrant; Border; Foreign,2-3-2021,4-7-2023,12-8-2021,12-14-2022,,Y,1-6-2023
+Ohio,134,HB53,,,https://legislature.ohio.gov/legislation/134/hb53,ohio_bill_texts\GA134_HB53.txt,,,Foreign,2-3-2021,,,,,N,
+Ohio,134,HB62,,,https://legislature.ohio.gov/legislation/134/hb62,ohio_bill_texts\GA134_HB62.txt,,,Foreign,2-3-2021,,,,,N,
+Ohio,134,HB65,,,https://legislature.ohio.gov/legislation/134/hb65,ohio_bill_texts\GA134_HB65.txt,,,Undocumented,2-3-2021,,,,,N,
+Ohio,134,HB66,,,https://legislature.ohio.gov/legislation/134/hb66,ohio_bill_texts\GA134_HB66.txt,,,Foreign,2-3-2021,4-3-2023,3-3-2021,12-14-2022,,Y,1-2-2023
+Ohio,134,HB73,,,https://legislature.ohio.gov/legislation/134/hb73,ohio_bill_texts\GA134_HB73.txt,,,Citizenship; Migrant,2-9-2021,,,,,N,
+Ohio,134,HB74,,,https://legislature.ohio.gov/legislation/134/hb74,ohio_bill_texts\GA134_HB74.txt,,,Citizenship; Border,2-9-2021,6-30-2021,3-4-2021,3-24-2021,,Y,3-31-2021
+Ohio,134,HB81,,,https://legislature.ohio.gov/legislation/134/hb81,ohio_bill_texts\GA134_HB81.txt,,,Foreign,2-9-2021,,6-24-2021,,,N,
+Ohio,134,HB82,,,https://legislature.ohio.gov/legislation/134/hb82,ohio_bill_texts\GA134_HB82.txt,,,Citizenship; Migrant,2-9-2021,,6-10-2021,6-23-2021,,Y,7-1-2021
+Ohio,134,HB88,,,https://legislature.ohio.gov/legislation/134/hb88,ohio_bill_texts\GA134_HB88.txt,,,Foreign,2-9-2021,,3-2-2022,,,N,
+Ohio,134,HB92,,,https://legislature.ohio.gov/legislation/134/hb92,ohio_bill_texts\GA134_HB92.txt,,,Citizenship,2-9-2021,,3-17-2021,9-22-2021,,Y,9-29-2021
+Ohio,134,HB105,,,https://legislature.ohio.gov/legislation/134/hb105,ohio_bill_texts\GA134_HB105.txt,,,Foreign,2-10-2021,,6-10-2021,,,N,
+Ohio,134,HB110,,,https://legislature.ohio.gov/legislation/134/hb110,ohio_bill_texts\GA134_HB110.txt,,,Immigration; Citizenship; Alien; Migrant; Undocumented; Border; Foreign,2-16-2021,,4-21-2021,6-9-2021,,N,
+Ohio,134,HB116,,,https://legislature.ohio.gov/legislation/134/hb116,ohio_bill_texts\GA134_HB116.txt,,,Foreign,2-16-2021,,11-17-2021,,,N,
+Ohio,134,HB129,,,https://legislature.ohio.gov/legislation/134/hb129,ohio_bill_texts\GA134_HB129.txt,,,Immigration; Alien,2-17-2021,,,,,N,
+Ohio,134,HB133,,,https://legislature.ohio.gov/legislation/134/hb133,ohio_bill_texts\GA134_HB133.txt,,,Foreign,2-17-2021,9-1-2021,3-17-2021,5-12-2021,,Y,6-2-2021
+Ohio,134,HB150,,,https://legislature.ohio.gov/legislation/134/hb150,ohio_bill_texts\GA134_HB150.txt,,,Foreign,2-23-2021,4-3-2023,11-16-2022,12-14-2022,,Y,1-2-2023
+Ohio,134,HB151,,,https://legislature.ohio.gov/legislation/134/hb151,ohio_bill_texts\GA134_HB151.txt,,,Immigration; Citizenship; Alien; Migrant; Border; Foreign,2-23-2021,,6-1-2022,12-14-2022,,N,
+Ohio,134,HB175,,,https://legislature.ohio.gov/legislation/134/hb175,ohio_bill_texts\GA134_HB175.txt,,,Border,3-3-2021,7-21-2022,9-29-2021,3-30-2022,,Y,4-20-2022
+Ohio,134,HB181,,,https://legislature.ohio.gov/legislation/134/hb181,ohio_bill_texts\GA134_HB181.txt,,,Alien,3-4-2021,,,,,N,
+Ohio,134,HB182,,,https://legislature.ohio.gov/legislation/134/hb182,ohio_bill_texts\GA134_HB182.txt,,,Citizenship,3-4-2021,,,,,N,
+Ohio,134,HB183,,,https://legislature.ohio.gov/legislation/134/hb183,ohio_bill_texts\GA134_HB183.txt,,,Foreign,3-4-2021,,,,,N,
+Ohio,134,HB190,,,https://legislature.ohio.gov/legislation/134/hb190,ohio_bill_texts\GA134_HB190.txt,,,Border,3-9-2021,,6-10-2021,,,N,
+Ohio,134,HB193,,,https://legislature.ohio.gov/legislation/134/hb193,ohio_bill_texts\GA134_HB193.txt,,,Border,3-9-2021,,6-23-2021,6-1-2022,,Y,6-24-2022
+Ohio,134,HB200,,,https://legislature.ohio.gov/legislation/134/hb200,ohio_bill_texts\GA134_HB200.txt,,,Migrant,3-10-2021,,,,,N,
+Ohio,134,HB203,,,https://legislature.ohio.gov/legislation/134/hb203,ohio_bill_texts\GA134_HB203.txt,,,Alien; Border; Foreign,3-10-2021,,6-1-2022,,,N,
+Ohio,134,HB213,,,https://legislature.ohio.gov/legislation/134/hb213,ohio_bill_texts\GA134_HB213.txt,,,Border,3-16-2021,,5-19-2021,,,N,
+Ohio,134,HB227,,,https://legislature.ohio.gov/legislation/134/hb227,ohio_bill_texts\GA134_HB227.txt,,,Immigration; Citizenship; Alien; Visa; Foreign,3-23-2021,,11-17-2021,,,N,
+Ohio,134,HB237,,,https://legislature.ohio.gov/legislation/134/hb237,ohio_bill_texts\GA134_HB237.txt,,,Foreign,3-31-2021,,,,,N,
+Ohio,134,HB240,,,https://legislature.ohio.gov/legislation/134/hb240,ohio_bill_texts\GA134_HB240.txt,,,Foreign,3-31-2021,,,,,N,
+Ohio,134,HB241,,,https://legislature.ohio.gov/legislation/134/hb241,ohio_bill_texts\GA134_HB241.txt,,,Foreign,3-31-2021,,,,,N,
+Ohio,134,HB246,,,https://legislature.ohio.gov/legislation/134/hb246,ohio_bill_texts\GA134_HB246.txt,,,Border,3-31-2021,,,,,N,
+Ohio,134,HB250,,,https://legislature.ohio.gov/legislation/134/hb250,ohio_bill_texts\GA134_HB250.txt,,,Border,4-12-2021,,,,,N,
+Ohio,134,HB257,,,https://legislature.ohio.gov/legislation/134/hb257,ohio_bill_texts\GA134_HB257.txt,,,Immigration; Citizenship; Alien; Visa; Foreign,4-14-2021,,,,,N,
+Ohio,134,HB259,,,https://legislature.ohio.gov/legislation/134/hb259,ohio_bill_texts\GA134_HB259.txt,,,Foreign,4-15-2021,,,,,N,
+Ohio,134,HB268,,,https://legislature.ohio.gov/legislation/134/hb268,ohio_bill_texts\GA134_HB268.txt,,,Foreign,4-22-2021,,,,,N,
+Ohio,134,HB281,,,https://legislature.ohio.gov/legislation/134/hb281,ohio_bill_texts\GA134_HB281.txt,,,Immigration; Citizenship; Alien; Visa; Border; Foreign,5-3-2021,,6-16-2021,12-14-2022,,Y,1-5-2023
+Ohio,134,HB291,,,https://legislature.ohio.gov/legislation/134/hb291,ohio_bill_texts\GA134_HB291.txt,,,Border,5-5-2021,,6-24-2021,10-6-2021,,Y,4-20-2022
+Ohio,134,HB292,,,https://legislature.ohio.gov/legislation/134/hb292,ohio_bill_texts\GA134_HB292.txt,,,Foreign,5-6-2021,,11-18-2021,,,N,
+Ohio,134,HB294,,,https://legislature.ohio.gov/legislation/134/hb294,ohio_bill_texts\GA134_HB294.txt,,,Citizenship,5-6-2021,,,,,N,
+Ohio,134,HB296,,,https://legislature.ohio.gov/legislation/134/hb296,ohio_bill_texts\GA134_HB296.txt,,,Citizenship; Border; Foreign,5-11-2021,,,,,N,
+Ohio,134,HB306,,,https://legislature.ohio.gov/legislation/134/hb306,ohio_bill_texts\GA134_HB306.txt,,,Citizenship; Foreign,5-11-2021,,,,,N,
+Ohio,134,HB315,,,https://legislature.ohio.gov/legislation/134/hb315,ohio_bill_texts\GA134_HB315.txt,,,Foreign,5-18-2021,,,,,N,
+Ohio,134,HB322,,,https://legislature.ohio.gov/legislation/134/hb322,ohio_bill_texts\GA134_HB322.txt,,,Foreign,5-25-2021,,,,,N,
+Ohio,134,HB338,,,https://legislature.ohio.gov/legislation/134/hb338,ohio_bill_texts\GA134_HB338.txt,,,Foreign,6-7-2021,8-31-2022,12-9-2021,5-18-2022,,Y,6-1-2022
+Ohio,134,HB348,,,https://legislature.ohio.gov/legislation/134/hb348,ohio_bill_texts\GA134_HB348.txt,,,Foreign,6-10-2021,,12-9-2021,,,N,
+Ohio,134,HB356,,,https://legislature.ohio.gov/legislation/134/hb356,ohio_bill_texts\GA134_HB356.txt,,,Immigration; Alien; Foreign,6-21-2021,,,,,N,
+Ohio,134,HB382,,,https://legislature.ohio.gov/legislation/134/hb382,ohio_bill_texts\GA134_HB382.txt,,,Foreign,8-2-2021,,,,,N,
+Ohio,134,HB387,,,https://legislature.ohio.gov/legislation/134/hb387,ohio_bill_texts\GA134_HB387.txt,,,Citizenship; Border; Foreign,8-12-2021,,,,,N,
+Ohio,134,HB415,,,https://legislature.ohio.gov/legislation/134/hb415,ohio_bill_texts\GA134_HB415.txt,,,Immigration; Citizenship; Alien,9-8-2021,,,,,N,
+Ohio,134,HB429,,,https://legislature.ohio.gov/legislation/134/hb429,ohio_bill_texts\GA134_HB429.txt,,,Border; Foreign,9-21-2021,,,,,N,
+Ohio,134,HB433,,,https://legislature.ohio.gov/legislation/134/hb433,ohio_bill_texts\GA134_HB433.txt,,,Foreign,9-27-2021,,11-16-2022,,,N,
+Ohio,134,HB436,,,https://legislature.ohio.gov/legislation/134/hb436,ohio_bill_texts\GA134_HB436.txt,,,Foreign,9-28-2021,,,,,N,
+Ohio,134,HB440,,,https://legislature.ohio.gov/legislation/134/hb440,ohio_bill_texts\GA134_HB440.txt,,,Foreign,9-30-2021,4-20-2022,12-9-2021,4-6-2022,,Y,4-20-2022
+Ohio,134,HB443,,,https://legislature.ohio.gov/legislation/134/hb443,ohio_bill_texts\GA134_HB443.txt,,,Foreign,10-6-2021,,,,,N,
+Ohio,134,HB445,,,https://legislature.ohio.gov/legislation/134/hb445,ohio_bill_texts\GA134_HB445.txt,,,Border; Foreign,10-6-2021,,,,,N,
+Ohio,134,HB446,,,https://legislature.ohio.gov/legislation/134/hb446,ohio_bill_texts\GA134_HB446.txt,,,Migrant,10-6-2021,,,,,N,
+Ohio,134,HB455,,,https://legislature.ohio.gov/legislation/134/hb455,ohio_bill_texts\GA134_HB455.txt,,,Immigration; Citizenship; Alien,10-19-2021,,,,,N,
+Ohio,134,HB458,,,https://legislature.ohio.gov/legislation/134/hb458,ohio_bill_texts\GA134_HB458.txt,,,Citizenship; Foreign,10-19-2021,,12-9-2021,12-13-2022,,Y,1-6-2023
+Ohio,134,HB459,,,https://legislature.ohio.gov/legislation/134/hb459,ohio_bill_texts\GA134_HB459.txt,,,Immigration,10-19-2021,,,,,N,
+Ohio,134,HB471,,,https://legislature.ohio.gov/legislation/134/hb471,ohio_bill_texts\GA134_HB471.txt,,,Foreign,11-1-2021,,,,,N,
+Ohio,134,HB485,,,https://legislature.ohio.gov/legislation/134/hb485,ohio_bill_texts\GA134_HB485.txt,,,Foreign,11-9-2021,,,,,N,
+Ohio,134,HB486,,,https://legislature.ohio.gov/legislation/134/hb486,ohio_bill_texts\GA134_HB486.txt,,,Border,11-9-2021,,,,,N,
+Ohio,134,HB488,,,https://legislature.ohio.gov/legislation/134/hb488,ohio_bill_texts\GA134_HB488.txt,,,Foreign,11-10-2021,,11-14-2022,,,N,
+Ohio,134,HB490,,,https://legislature.ohio.gov/legislation/134/hb490,ohio_bill_texts\GA134_HB490.txt,,,Foreign,11-16-2021,,,,,N,
+Ohio,134,HB491,,,https://legislature.ohio.gov/legislation/134/hb491,ohio_bill_texts\GA134_HB491.txt,,,Foreign,11-16-2021,,,,,N,
+Ohio,134,HB494,,,https://legislature.ohio.gov/legislation/134/hb494,ohio_bill_texts\GA134_HB494.txt,,,Border,11-23-2021,,,,,N,
+Ohio,134,HB496,,,https://legislature.ohio.gov/legislation/134/hb496,ohio_bill_texts\GA134_HB496.txt,,,Foreign,11-29-2021,,,,,N,
+Ohio,134,HB498,,,https://legislature.ohio.gov/legislation/134/hb498,ohio_bill_texts\GA134_HB498.txt,,,Foreign,12-2-2021,,,,,N,
+Ohio,134,HB505,,,https://legislature.ohio.gov/legislation/134/hb505,ohio_bill_texts\GA134_HB505.txt,,,Immigration; Citizenship; Alien; Visa; Foreign,12-7-2021,,,,,N,
+Ohio,134,HB507,,,https://legislature.ohio.gov/legislation/134/hb507,ohio_bill_texts\GA134_HB507.txt,,,Foreign,12-8-2021,,4-6-2022,12-7-2022,,Y,1-6-2023
+Ohio,134,HB509,,,https://legislature.ohio.gov/legislation/134/hb509,ohio_bill_texts\GA134_HB509.txt,,,Citizenship; Alien; Foreign,12-9-2021,,3-23-2022,12-7-2022,,Y,1-5-2023
+Ohio,134,HB513,,,https://legislature.ohio.gov/legislation/134/hb513,ohio_bill_texts\GA134_HB513.txt,,,Foreign,12-14-2021,,6-1-2022,12-14-2022,,N,
+Ohio,134,HB516,,,https://legislature.ohio.gov/legislation/134/hb516,ohio_bill_texts\GA134_HB516.txt,,,Border,12-16-2021,,,,,N,
+Ohio,134,HB518,,,https://legislature.ohio.gov/legislation/134/hb518,ohio_bill_texts\GA134_HB518.txt,,,Border,12-16-2021,,3-9-2022,6-1-2022,,Y,6-24-2022
+Ohio,134,HB530,,,https://legislature.ohio.gov/legislation/134/hb530,ohio_bill_texts\GA134_HB530.txt,,,Alien; Foreign,1-12-2022,,4-6-2022,,,N,
+Ohio,134,HB532,,,https://legislature.ohio.gov/legislation/134/hb532,ohio_bill_texts\GA134_HB532.txt,,,Border,1-18-2022,,,,,N,
+Ohio,134,HB542,,,https://legislature.ohio.gov/legislation/134/hb542,ohio_bill_texts\GA134_HB542.txt,,,Foreign,1-24-2022,,5-18-2022,11-30-2022,,N,
+Ohio,134,HB556,,,https://legislature.ohio.gov/legislation/134/hb556,ohio_bill_texts\GA134_HB556.txt,,,Foreign,2-1-2022,,6-1-2022,,,N,
+Ohio,134,HB574,,,https://legislature.ohio.gov/legislation/134/hb574,ohio_bill_texts\GA134_HB574.txt,,,Foreign,2-15-2022,,,,,N,
+Ohio,134,HB575,,,https://legislature.ohio.gov/legislation/134/hb575,ohio_bill_texts\GA134_HB575.txt,,,Foreign,2-16-2022,,6-1-2022,12-14-2022,,Y,1-5-2023
+Ohio,134,HB578,,,https://legislature.ohio.gov/legislation/134/hb578,ohio_bill_texts\GA134_HB578.txt,,,Border,2-22-2022,,6-1-2022,12-14-2022,,Y,1-5-2023
+Ohio,134,HB583,,,https://legislature.ohio.gov/legislation/134/hb583,ohio_bill_texts\GA134_HB583.txt,,,Border,2-28-2022,9-23-2022,3-30-2022,5-25-2022,,Y,6-24-2022
+Ohio,134,HB585,,,https://legislature.ohio.gov/legislation/134/hb585,ohio_bill_texts\GA134_HB585.txt,,,Foreign,3-1-2022,,,,,N,
+Ohio,134,HB593,,,https://legislature.ohio.gov/legislation/134/hb593,ohio_bill_texts\GA134_HB593.txt,,,Foreign,3-8-2022,,11-30-2022,,,N,
+Ohio,134,HB594,,,https://legislature.ohio.gov/legislation/134/hb594,ohio_bill_texts\GA134_HB594.txt,,,Immigration,3-8-2022,,,,,N,
+Ohio,134,HB613,,,https://legislature.ohio.gov/legislation/134/hb613,ohio_bill_texts\GA134_HB613.txt,,,Border,3-31-2022,,,,,N,
+Ohio,134,HB639,,,https://legislature.ohio.gov/legislation/134/hb639,ohio_bill_texts\GA134_HB639.txt,,,Foreign,5-2-2022,,,,,N,
+Ohio,134,HB648,,,https://legislature.ohio.gov/legislation/134/hb648,ohio_bill_texts\GA134_HB648.txt,,,Border,5-11-2022,,6-1-2022,,,N,
+Ohio,134,HB651,,,https://legislature.ohio.gov/legislation/134/hb651,ohio_bill_texts\GA134_HB651.txt,,,Citizenship; Alien,5-11-2022,,,,,N,
+Ohio,134,HB660,,,https://legislature.ohio.gov/legislation/134/hb660,ohio_bill_texts\GA134_HB660.txt,,,Border,5-12-2022,,,,,N,
+Ohio,134,HB687,,,https://legislature.ohio.gov/legislation/134/hb687,ohio_bill_texts\GA134_HB687.txt,,,Foreign,5-25-2022,9-13-2022,6-1-2022,6-1-2022,,Y,6-14-2022
+Ohio,134,HB695,,,https://legislature.ohio.gov/legislation/134/hb695,ohio_bill_texts\GA134_HB695.txt,,,Foreign,6-7-2022,,,,,N,
+Ohio,134,HB699,,,https://legislature.ohio.gov/legislation/134/hb699,ohio_bill_texts\GA134_HB699.txt,,,Immigration; Citizenship; Alien; Visa; Border; Foreign,6-13-2022,,,,,N,
+Ohio,134,HB706,,,https://legislature.ohio.gov/legislation/134/hb706,ohio_bill_texts\GA134_HB706.txt,,,Foreign,7-14-2022,,,,,N,
+Ohio,134,HB714,,,https://legislature.ohio.gov/legislation/134/hb714,ohio_bill_texts\GA134_HB714.txt,,,Foreign,8-31-2022,,,,,N,
+Ohio,134,HB727,,,https://legislature.ohio.gov/legislation/134/hb727,ohio_bill_texts\GA134_HB727.txt,,,Foreign,10-3-2022,,,,,N,
+Ohio,134,HB729,,,https://legislature.ohio.gov/legislation/134/hb729,ohio_bill_texts\GA134_HB729.txt,,,Foreign,10-6-2022,,,,,N,
+Ohio,134,HB730,,,https://legislature.ohio.gov/legislation/134/hb730,ohio_bill_texts\GA134_HB730.txt,,,Foreign,10-17-2022,,,,,N,
