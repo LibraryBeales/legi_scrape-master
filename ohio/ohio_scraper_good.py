@@ -29,6 +29,17 @@ class OhioLegislatureScraper:
     def __init__(self):
         self.base_url = "https://legislature.ohio.gov"
         self.session = requests.Session()
+        
+        # FIX SSL CERTIFICATE ISSUE
+        # Option 1: Disable SSL verification (quick fix for scraping)
+        self.session.verify = False
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        
+        # Option 2: Use certifi (better security - uncomment if you have certifi installed)
+        # import certifi
+        # self.session.verify = certifi.where()
+        
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -82,7 +93,7 @@ class OhioLegislatureScraper:
             logger.error(f"Connection test failed: {e}")
             return False
     
-    def get_bills_from_listing_page(self, assembly="136"):
+    def get_bills_from_listing_page(self, assembly="134"):
         """Try to get bills from the main legislation listing page"""
         bills = []
         
@@ -181,7 +192,7 @@ class OhioLegislatureScraper:
         
         return None
     
-    def get_bills_by_systematic_search(self, assembly="136", max_bills_per_type=None, max_consecutive_failures=50):
+    def get_bills_by_systematic_search(self, assembly="128", max_bills_per_type=None, max_consecutive_failures=50):
         """Systematically search for bills with smart termination"""
         bills = []
         
@@ -415,7 +426,7 @@ class OhioLegislatureScraper:
         
         try:
             # Get main bill page with retries
-            max_retries = 3
+            max_retries = 15
             response = None
             
             for attempt in range(max_retries):
@@ -743,7 +754,7 @@ def main():
     # ===== EASY CONFIGURATION - EDIT THESE VALUES =====
     
     # Assembly Options - Choose one:
-    ASSEMBLIES_TO_SEARCH = ["135"]                    # Current assembly only
+    ASSEMBLIES_TO_SEARCH = ["128"]                    # Current assembly only
     # ASSEMBLIES_TO_SEARCH = ["135"]                  # Previous assembly only  
     # ASSEMBLIES_TO_SEARCH = ["136", "135"]           # Current + previous
     # ASSEMBLIES_TO_SEARCH = ["136", "135", "134"]    # Recent assemblies
@@ -760,7 +771,7 @@ def main():
     # MAX_CONSECUTIVE_FAILURES = 100                  # More thorough search
     
     # Output filename:
-    OUTPUT_FILENAME = "ohio_immigration_bills_GA135.csv"
+    OUTPUT_FILENAME = "ohio_immigration_bills_GA128.csv"
     
     # ==================================================
     
