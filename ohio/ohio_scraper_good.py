@@ -192,7 +192,7 @@ class OhioLegislatureScraper:
         
         return None
     
-    def get_bills_by_systematic_search(self, assembly="128", max_bills_per_type=None, max_consecutive_failures=50):
+    def get_bills_by_systematic_search(self, assembly="121", max_bills_per_type=None, max_consecutive_failures=50):
         """Systematically search for bills with smart termination"""
         bills = []
         
@@ -754,7 +754,7 @@ def main():
     # ===== EASY CONFIGURATION - EDIT THESE VALUES =====
     
     # Assembly Options - Choose one:
-    ASSEMBLIES_TO_SEARCH = ["128"]                    # Current assembly only
+    ASSEMBLIES_TO_SEARCH = ["121"]                    # Current assembly only
     # ASSEMBLIES_TO_SEARCH = ["135"]                  # Previous assembly only  
     # ASSEMBLIES_TO_SEARCH = ["136", "135"]           # Current + previous
     # ASSEMBLIES_TO_SEARCH = ["136", "135", "134"]    # Recent assemblies
@@ -771,7 +771,7 @@ def main():
     # MAX_CONSECUTIVE_FAILURES = 100                  # More thorough search
     
     # Output filename:
-    OUTPUT_FILENAME = "ohio_immigration_bills_GA128.csv"
+    OUTPUT_FILENAME = "ohio_immigration_bills_GA121.csv"
     
     # ==================================================
     
